@@ -100,7 +100,7 @@ def extract_resistance_value(description, lcsc_id):
         return None
 
 
-def extract_diode_type(description, pins, lcsc_id):
+def extract_diode_type(description, pins, lcsc_id, subcategory="", attributes=None):
     if lcsc_id == 2990493:
         return "TVS-Bi"
     if lcsc_id == 2990473:
@@ -156,28 +156,70 @@ def extract_diode_type(description, pins, lcsc_id):
     if lcsc_id == 41376087:
         return "TVS-Uni"
 
+    attributes = attributes or {}
+
+    # yaqwsx's upstream database mirrors JLCPCB's own bulk parts-list export,
+    # whose "Description" column is blank for a large fraction of Diodes /
+    # Circuit Protection parts (roughly half of this repo's basic+preferred
+    # list) even though JLCPCB's live per-part API has a full description
+    # (confirmed directly). generate-database.py now backfills real text from
+    # that live API where it can, but coverage rolls in gradually over
+    # several days -- this fallback covers the gap in the meantime using
+    # JLCPCB's own subcategory name, which is always populated and for most
+    # families already contains the exact keyword below (e.g. subcategory
+    # "Schottky Diodes" contains "Schottky").
+    search_text = f"{description} {subcategory}"
+
+    # TVS/ESD parts specifically need to know Bidirectional vs Unidirectional,
+    # which the subcategory name alone doesn't state (e.g. "ESD And Surge
+    # Protection (TVS/ESD)" for both). JLCPCB does supply this as a
+    # structured "Polarity" attribute even when description is empty, so
+    # check that first rather than defaulting every unmatched TVS part to
+    # Unidirectional (which would silently produce a wrong symbol for the
+    # bidirectional ones).
+    polarity = str(attributes.get("Polarity", "")).casefold()
+    if "bidirectional" in polarity:
+        return "TVS-Bi" if pins == 2 else None
+    if "unidirectional" in polarity:
+        return "TVS-Uni" if pins == 2 else None
+
     diode_types = {
         "Schottky": {"pins": 2, "type": "Schottky"},
         "Recovery": {"pins": 2, "type": "Recovery"},
         "General": {"pins": 2, "type": "General"},
         "Switching": {"pins": 2, "type": "Switching"},
         "Zener": {"pins": 2, "type": "Zener"},
-        "Bidirectional": {"pins": 2, "type": "TVS-Bi"},
-        "Unidirectional": {"pins": 2, "type": "TVS-Uni"},
-        "TVS": {"pins": 2, "type": "TVS-Uni"},
     }
     for keyword, diode_info in diode_types.items():
-        if keyword.casefold() in description.casefold():
+        if keyword.casefold() in search_text.casefold():
             if diode_info["pins"] == pins:
                 return diode_info["type"]
             elif keyword == "Zener" and pins == 3:
                 return "Zener13"
             else:
                 return None
+
+    # Bidirectional/Unidirectional/TVS keywords are intentionally checked
+    # against `description` only, not `subcategory` -- the ESD/TVS
+    # subcategory name is the same generic bucket ("ESD And Surge Protection
+    # (TVS/ESD)") for both polarities, so matching it here would silently
+    # guess Unidirectional for every TVS part missing a "Polarity" attribute
+    # instead of leaving genuinely-unknown ones unclassified.
+    polarity_keywords = {
+        "Bidirectional": {"pins": 2, "type": "TVS-Bi"},
+        "Unidirectional": {"pins": 2, "type": "TVS-Uni"},
+        "TVS": {"pins": 2, "type": "TVS-Uni"},
+    }
+    for keyword, diode_info in polarity_keywords.items():
+        if keyword.casefold() in description.casefold():
+            if diode_info["pins"] == pins:
+                return diode_info["type"]
+            else:
+                return None
     return None
 
 
-def extract_transistor_type(description, pins, footprint, lcsc_id):
+def extract_transistor_type(description, pins, footprint, lcsc_id, attributes=None):
     if lcsc_id == 484513:
         return "NMOS"
     if lcsc_id == 396043:
@@ -195,6 +237,17 @@ def extract_transistor_type(description, pins, footprint, lcsc_id):
     if lcsc_id == 41375119:
         pins = 3
 
+    # JLCPCB leaves `description` blank for a large fraction of Bipolar (BJT)
+    # and MOSFET parts, but supplies the same information as structured
+    # attributes ("Transistor Type": "NPN"/"PNP", "Type": "1 N-Channel" etc.)
+    # even then. Subcategory isn't useful here (it's just "Bipolar (BJT)" or
+    # "MOSFETs" for every polarity), so fall back to these attributes
+    # specifically instead.
+    attributes = attributes or {}
+    search_text = " ".join(
+        [description, str(attributes.get("Transistor Type", "")), str(attributes.get("Type", ""))]
+    )
+
     transistor_types = {
         "PNP": {"pins": 3, "type": "PNP"},
         "NPN": {"pins": 3, "type": "NPN"},
@@ -204,7 +257,7 @@ def extract_transistor_type(description, pins, footprint, lcsc_id):
         "P-Channel": {"pins": 3, "type": "PMOS"},
     }
     for keyword, transistor_info in transistor_types.items():
-        if keyword.casefold() in description.casefold():
+        if keyword.casefold() in search_text.casefold():
             if transistor_info["pins"] == pins:
                 if footprint == "SOT-89":
                     return f"{transistor_info["type"]}C2"  # Collector/ and Emitter pin number is flipped
@@ -633,7 +686,7 @@ for index in range(0, len(df)):
                     attributes = {"Voltage Rated": capacitor_voltage}
 
         elif df.loc[index, "category"] == "Diodes" or ("TVS" in subcategory) or ("ESD" in subcategory):
-            value = extract_diode_type(description, joints, lcsc)
+            value = extract_diode_type(description, joints, lcsc, subcategory, attributes)
             secondary_mode = value
             lib_name = "Diodes"
             if value == None:
@@ -661,7 +714,7 @@ for index in range(0, len(df)):
             elif footprint_name == "SOT-89-3":
                 footprint_name = "SOT-89"
 
-            value = extract_transistor_type(description, joints, footprint_name, lcsc)
+            value = extract_transistor_type(description, joints, footprint_name, lcsc, attributes)
             secondary_mode = value
             lib_name = "Transistors"
             if value == None:
