@@ -519,6 +519,9 @@ def check_footprints():
 download_file("https://krrishverma.github.io/jlcpcb-parts-database", "jlcpcb-components-basic-preferred.csv")
 
 df = pd.read_csv("jlcpcb-components-basic-preferred.csv")
+print(f"[debug] Loaded {len(df)} rows from jlcpcb-components-basic-preferred.csv "
+      f"({int(df['basic'].sum())} basic, {int(df['preferred'].sum())} preferred) -- "
+      f"compare this to the row/basic/preferred counts on the live Repo A CSV to confirm nothing was truncated.")
 
 footprints_dir = "3dmodels/JLCPCB.3dshapes"
 footprints_lookup = {os.path.splitext(file)[0] for file in os.listdir(footprints_dir)}
@@ -791,6 +794,10 @@ for index in range(0, len(df)):
             )
             symbols[lib_name].append(symbol)
 
+print(f"[debug] {len(df)} of the originally loaded rows were not turned into a symbol "
+      f"(saved to leftover.csv) -- these are the same components already logged above "
+      f"as 'not found in library symbols/...' (no matching symbol/category yet), not a sign "
+      f"the CSV download itself was incomplete.")
 df.to_csv("leftover.csv", index=False)
 
 generate_kicad_symbol_libs(symbols)
