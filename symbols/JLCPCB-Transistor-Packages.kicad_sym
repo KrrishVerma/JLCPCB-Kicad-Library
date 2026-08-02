@@ -32,7 +32,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Texas-Instruments-ULN2003ADR_C7512.pdf"
+		(property "Datasheet" "https://www.ti.com/cn/lit/gpn/uln2003a"
 			(at -2.286 0.127 0)
 			(effects
 				(font
@@ -60,7 +60,7 @@
 				(hide yes)
 			)
 		)
-		(property "Stock" "402827"
+		(property "Stock" "420533"
 			(at 0 1.27 0)
 			(effects
 				(font
@@ -69,7 +69,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "0.154USD"
+		(property "Price" "0.185USD"
 			(at 0 1.27 0)
 			(effects
 				(font
@@ -114,7 +114,7 @@
 				(hide yes)
 			)
 		)
-		(property "Category" "Transistors,Darlington Transistor Arrays"
+		(property "Category" "Transistors/Thyristors,Darlington Transistor Arrays"
 			(at 0 0 0)
 			(effects
 				(font
@@ -605,7 +605,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2401111808_hongjiacheng-HJ8205_C20069150.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8564879692063789056"
 			(at -2.286 0.127 0)
 			(effects
 				(font
@@ -633,7 +633,7 @@
 				(hide yes)
 			)
 		)
-		(property "Stock" "63201"
+		(property "Stock" "60830"
 			(at 0 0 0)
 			(effects
 				(font
@@ -642,7 +642,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "0.057USD"
+		(property "Price" "0.061USD"
 			(at 0 0 0)
 			(effects
 				(font
@@ -687,7 +687,7 @@
 				(hide yes)
 			)
 		)
-		(property "Category" "Triode/MOS Tube/Transistor,MOSFETs"
+		(property "Category" "Transistors/Thyristors,MOSFETs"
 			(at 0 0 0)
 			(effects
 				(font

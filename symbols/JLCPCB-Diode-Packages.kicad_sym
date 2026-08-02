@@ -32,7 +32,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2407101125_MDD-Microdiode-Semiconductor-DB107S_C5377.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579707616166985728"
 			(at -2.286 0.127 0)
 			(effects
 				(font
@@ -60,7 +60,7 @@
 				(hide yes)
 			)
 		)
-		(property "Stock" "183866"
+		(property "Stock" "191257"
 			(at 0 0 0)
 			(effects
 				(font
@@ -69,7 +69,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "0.058USD"
+		(property "Price" "0.064USD"
 			(at 0 0 0)
 			(effects
 				(font
@@ -123,7 +123,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "MDD（Microdiode Electronics）"
+		(property "Manufacturer" "MDD Microdiode Semiconductor"
 			(at 0 0 0)
 			(effects
 				(font
@@ -329,7 +329,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2408090954_MDD-Microdiode-Semiconductor-MB10S_C2488.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579707626424631296"
 			(at -2.286 0.127 0)
 			(effects
 				(font
@@ -357,7 +357,7 @@
 				(hide yes)
 			)
 		)
-		(property "Stock" "275744"
+		(property "Stock" "968489"
 			(at 0 0 0)
 			(effects
 				(font
@@ -366,7 +366,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "0.030USD"
+		(property "Price" "0.033USD"
 			(at 0 0 0)
 			(effects
 				(font
@@ -420,7 +420,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "MDD（Microdiode Electronics）"
+		(property "Manufacturer" "nan"
 			(at 0 0 0)
 			(effects
 				(font
@@ -628,7 +628,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2406191611_hongjiacheng-BAT54TW_C22466376.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8603186766492803072"
 			(at -2.286 0.127 0)
 			(effects
 				(font
@@ -656,7 +656,7 @@
 				(hide yes)
 			)
 		)
-		(property "Stock" "79128"
+		(property "Stock" "72490"
 			(at 0 0 0)
 			(effects
 				(font
@@ -665,7 +665,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "0.041USD"
+		(property "Price" "0.034USD"
 			(at 0 0 0)
 			(effects
 				(font
@@ -1043,7 +1043,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2306301553_hongjiacheng-H5VU25U_C7420374.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8590903553999925248"
 			(at -2.286 0.127 0)
 			(effects
 				(font
@@ -1071,7 +1071,7 @@
 				(hide yes)
 			)
 		)
-		(property "Stock" "67408"
+		(property "Stock" "51479"
 			(at 0 0 0)
 			(effects
 				(font
@@ -1080,7 +1080,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "0.049USD"
+		(property "Price" "0.044USD"
 			(at 0 0 0)
 			(effects
 				(font
@@ -1125,7 +1125,7 @@
 				(hide yes)
 			)
 		)
-		(property "Category" "TVS/Fuse/Board Level Protection,ESD Protection Devices"
+		(property "Category" "Circuit Protection,ESD And Surge Protection (TVS/ESD)"
 			(at 0 0 0)
 			(effects
 				(font
@@ -2007,7 +2007,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2401261524_hongjiacheng-H5VU25UC_C20615800.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8590925242070220800"
 			(at -2.286 0.127 0)
 			(effects
 				(font
@@ -2035,7 +2035,7 @@
 				(hide yes)
 			)
 		)
-		(property "Stock" "19419"
+		(property "Stock" "18394"
 			(at 0 0 0)
 			(effects
 				(font
@@ -2044,7 +2044,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "0.040USD"
+		(property "Price" "0.042USD"
 			(at 0 0 0)
 			(effects
 				(font
@@ -2089,7 +2089,7 @@
 				(hide yes)
 			)
 		)
-		(property "Category" "TVS/Fuse/Board Level Protection,Electrostatic And Surge Protection (TVS/ESD)"
+		(property "Category" "Circuit Protection,ESD And Surge Protection (TVS/ESD)"
 			(at 0 0 0)
 			(effects
 				(font
@@ -2870,7 +2870,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2405091603_hongjiacheng-H5VUT1B_C22395520.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8603186941827428352"
 			(at -2.286 0.127 0)
 			(effects
 				(font
@@ -2898,7 +2898,7 @@
 				(hide yes)
 			)
 		)
-		(property "Stock" "4968"
+		(property "Stock" "7042"
 			(at 0 0 0)
 			(effects
 				(font
@@ -2907,7 +2907,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "0.053USD"
+		(property "Price" "0.059USD"
 			(at 0 0 0)
 			(effects
 				(font
@@ -3417,7 +3417,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2401261525_hongjiacheng-H5VUT2U_C20615824.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8590925363507634176"
 			(at -2.286 0.127 0)
 			(effects
 				(font
@@ -3445,7 +3445,7 @@
 				(hide yes)
 			)
 		)
-		(property "Stock" "40882"
+		(property "Stock" "137839"
 			(at 1.27 0 0)
 			(effects
 				(font
@@ -3454,7 +3454,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "0.033USD"
+		(property "Price" "0.036USD"
 			(at 1.27 0 0)
 			(effects
 				(font
@@ -3499,7 +3499,7 @@
 				(hide yes)
 			)
 		)
-		(property "Category" "TVS/Fuse/Board Level Protection,Electrostatic And Surge Protection (TVS/ESD)"
+		(property "Category" "Circuit Protection,ESD And Surge Protection (TVS/ESD)"
 			(at 0 0 0)
 			(effects
 				(font
@@ -3910,7 +3910,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2401261525_hongjiacheng-H5VUT3UA_C20615830.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8590920605392842752"
 			(at -2.286 0.127 0)
 			(effects
 				(font
@@ -3938,7 +3938,7 @@
 				(hide yes)
 			)
 		)
-		(property "Stock" "17345"
+		(property "Stock" "16611"
 			(at 0 0 0)
 			(effects
 				(font
@@ -3947,7 +3947,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "0.071USD"
+		(property "Price" "0.080USD"
 			(at 0 0 0)
 			(effects
 				(font
@@ -3992,7 +3992,7 @@
 				(hide yes)
 			)
 		)
-		(property "Category" "TVS/Fuse/Board Level Protection,Electrostatic And Surge Protection (TVS/ESD)"
+		(property "Category" "Circuit Protection,ESD And Surge Protection (TVS/ESD)"
 			(at 0 0 0)
 			(effects
 				(font
@@ -4710,7 +4710,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_1810311712_onsemi-SMF05CT1G_C15879.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579709093222932480"
 			(at -2.286 0.127 0)
 			(effects
 				(font
@@ -4738,7 +4738,7 @@
 				(hide yes)
 			)
 		)
-		(property "Stock" "52884"
+		(property "Stock" "59866"
 			(at 0 0 0)
 			(effects
 				(font
@@ -4747,7 +4747,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "0.170USD"
+		(property "Price" "0.141USD"
 			(at 0 0 0)
 			(effects
 				(font
@@ -4774,7 +4774,7 @@
 				(hide yes)
 			)
 		)
-		(property "Attrition Qty" "0"
+		(property "Attrition Qty" "2"
 			(at 0 0 0)
 			(effects
 				(font
@@ -4792,7 +4792,7 @@
 				(hide yes)
 			)
 		)
-		(property "Category" "Circuit Protection,ESD Protection Devices"
+		(property "Category" "Circuit Protection,ESD And Surge Protection (TVS/ESD)"
 			(at 0 0 0)
 			(effects
 				(font
@@ -5343,7 +5343,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_1809192313_ProTek-Devices-SRV05-4-P-T7_C85364.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579709102848999424"
 			(at -2.286 0.127 0)
 			(effects
 				(font
@@ -5371,7 +5371,7 @@
 				(hide yes)
 			)
 		)
-		(property "Stock" "20621"
+		(property "Stock" "1166"
 			(at 1.27 1.27 0)
 			(effects
 				(font
@@ -5380,7 +5380,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "0.180USD"
+		(property "Price" "0.204USD"
 			(at 1.27 1.27 0)
 			(effects
 				(font
@@ -5425,7 +5425,7 @@
 				(hide yes)
 			)
 		)
-		(property "Category" "Circuit Protection,TVS"
+		(property "Category" "Circuit Protection,ESD And Surge Protection (TVS/ESD)"
 			(at 0 0 0)
 			(effects
 				(font
@@ -5480,6 +5480,69 @@
 			)
 		)
 		(property "Breakdown Voltage" "6V"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "ESD"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage - Breakdown" "6V"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reverse Leakage Current (Ir)" "5uA"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Peak Pulse Power Dissipation (Ppp)" "500W@8/20us"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Peak Pulse Current (Ipp)" "1A@8/20us"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Number Of Channels" "Four channels"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Clamping Voltage" "12V"
 			(at 0 0 0)
 			(effects
 				(font
@@ -6179,7 +6242,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2407101109_hongjiacheng-SRV05-4A_C20615829.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8590925050793451520"
 			(at -2.286 0.127 0)
 			(effects
 				(font
@@ -6207,7 +6270,7 @@
 				(hide yes)
 			)
 		)
-		(property "Stock" "44549"
+		(property "Stock" "27164"
 			(at 0 0 0)
 			(effects
 				(font
@@ -6216,7 +6279,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "0.039USD"
+		(property "Price" "0.042USD"
 			(at 0 0 0)
 			(effects
 				(font
@@ -6261,7 +6324,7 @@
 				(hide yes)
 			)
 		)
-		(property "Category" "TVS/Fuse/Board Level Protection,Electrostatic And Surge Protection (TVS/ESD)"
+		(property "Category" "Circuit Protection,ESD And Surge Protection (TVS/ESD)"
 			(at 0 0 0)
 			(effects
 				(font
@@ -6979,7 +7042,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2407101112_hongjiacheng-SRV05-4_C7420376.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8590905124175241216"
 			(at -2.286 0.127 0)
 			(effects
 				(font
@@ -7007,7 +7070,7 @@
 				(hide yes)
 			)
 		)
-		(property "Stock" "125183"
+		(property "Stock" "622147"
 			(at 0 0 0)
 			(effects
 				(font
@@ -7016,7 +7079,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "0.087USD"
+		(property "Price" "0.094USD"
 			(at 0 0 0)
 			(effects
 				(font
@@ -7061,7 +7124,7 @@
 				(hide yes)
 			)
 		)
-		(property "Category" "TVS/Fuse/Board Level Protection,ESD Protection Devices"
+		(property "Category" "Circuit Protection,ESD And Surge Protection (TVS/ESD)"
 			(at 0 0 0)
 			(effects
 				(font
@@ -7878,7 +7941,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2308281443_hongjiacheng-BAS40_C7502685.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8603005877670993920"
 			(at -2.286 0.127 0)
 			(effects
 				(font
@@ -7906,7 +7969,7 @@
 				(hide yes)
 			)
 		)
-		(property "Stock" "1708"
+		(property "Stock" "16493"
 			(at 0 0 0)
 			(effects
 				(font
@@ -7915,7 +7978,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "0.018USD"
+		(property "Price" "0.019USD"
 			(at 0 0 0)
 			(effects
 				(font
@@ -8199,7 +8262,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2308281531_hongjiacheng-BAS70-04_C7502687.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8603005878983270400"
 			(at -2.286 0.127 0)
 			(effects
 				(font
@@ -8227,7 +8290,7 @@
 				(hide yes)
 			)
 		)
-		(property "Stock" "121503"
+		(property "Stock" "52460"
 			(at 0 0 0)
 			(effects
 				(font
@@ -8236,7 +8299,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "0.022USD"
+		(property "Price" "0.023USD"
 			(at 0 0 0)
 			(effects
 				(font
@@ -8281,7 +8344,7 @@
 				(hide yes)
 			)
 		)
-		(property "Category" "Diodes,Schottky Barrier Diodes (SBD)"
+		(property "Category" "Diodes,Schottky Diodes"
 			(at 0 0 0)
 			(effects
 				(font
@@ -8535,7 +8598,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2406171618_hongjiacheng-BAS70-06_C22466364.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8603186701183700992"
 			(at -2.286 0.127 0)
 			(effects
 				(font
@@ -8563,7 +8626,7 @@
 				(hide yes)
 			)
 		)
-		(property "Stock" "131335"
+		(property "Stock" "95290"
 			(at 0 0 0)
 			(effects
 				(font
@@ -8572,7 +8635,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "0.022USD"
+		(property "Price" "0.024USD"
 			(at 0 0 0)
 			(effects
 				(font
@@ -8801,7 +8864,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2406171613_hongjiacheng-BAS70W-05_C22466366.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8603186707466633216"
 			(at -2.286 0.127 0)
 			(effects
 				(font
@@ -8829,7 +8892,7 @@
 				(hide yes)
 			)
 		)
-		(property "Stock" "14508"
+		(property "Stock" "10817"
 			(at -1.27 0 0)
 			(effects
 				(font
@@ -8838,7 +8901,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "0.026USD"
+		(property "Price" "0.028USD"
 			(at -1.27 0 0)
 			(effects
 				(font
@@ -9114,7 +9177,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2406191606_hongjiacheng-BAT54AW_C22466374.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8603186757207289856"
 			(at -2.286 0.127 0)
 			(effects
 				(font
@@ -9142,7 +9205,7 @@
 				(hide yes)
 			)
 		)
-		(property "Stock" "11515"
+		(property "Stock" "29805"
 			(at 0 0 0)
 			(effects
 				(font
@@ -9151,7 +9214,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "0.023USD"
+		(property "Price" "0.025USD"
 			(at 0 0 0)
 			(effects
 				(font
@@ -9380,7 +9443,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2407241028_Nexperia-BAT54C-215_C37704.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8586177223473053696"
 			(at -2.286 0.127 0)
 			(effects
 				(font
@@ -9408,7 +9471,7 @@
 				(hide yes)
 			)
 		)
-		(property "Stock" "98299"
+		(property "Stock" "176230"
 			(at -1.27 0 0)
 			(effects
 				(font
@@ -9417,7 +9480,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "0.040USD"
+		(property "Price" "0.027USD"
 			(at -1.27 0 0)
 			(effects
 				(font
@@ -9462,7 +9525,7 @@
 				(hide yes)
 			)
 		)
-		(property "Category" "Diodes,Schottky Barrier Diodes (SBD)"
+		(property "Category" "Diodes,Schottky Diodes"
 			(at 0 0 0)
 			(effects
 				(font
@@ -9700,7 +9763,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2405071138_hongjiacheng-BAT54CW_C22392482.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8603186871392616448"
 			(at -2.286 0.127 0)
 			(effects
 				(font
@@ -9728,7 +9791,7 @@
 				(hide yes)
 			)
 		)
-		(property "Stock" "43888"
+		(property "Stock" "90059"
 			(at 0 0 0)
 			(effects
 				(font
@@ -9737,7 +9800,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "0.024USD"
+		(property "Price" "0.026USD"
 			(at 0 0 0)
 			(effects
 				(font
@@ -10010,7 +10073,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2406171614_hongjiacheng-BAT54C_C22466350.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8603186955026767872"
 			(at -2.286 0.127 0)
 			(effects
 				(font
@@ -10038,7 +10101,7 @@
 				(hide yes)
 			)
 		)
-		(property "Stock" "446"
+		(property "Stock" "761517"
 			(at 0 0 0)
 			(effects
 				(font
@@ -10047,7 +10110,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "0.018USD"
+		(property "Price" "0.019USD"
 			(at 0 0 0)
 			(effects
 				(font
@@ -10323,7 +10386,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2406191606_hongjiacheng-BAT54SW_C22466373.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8603186976149823488"
 			(at -2.286 0.127 0)
 			(effects
 				(font
@@ -10351,7 +10414,7 @@
 				(hide yes)
 			)
 		)
-		(property "Stock" "219593"
+		(property "Stock" "99452"
 			(at 0 0 0)
 			(effects
 				(font
@@ -10360,7 +10423,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "0.022USD"
+		(property "Price" "0.024USD"
 			(at 0 0 0)
 			(effects
 				(font
@@ -10588,7 +10651,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2310171613_hongjiacheng-BAT54S_C7420333.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8590905055912538112"
 			(at -2.286 0.127 0)
 			(effects
 				(font
@@ -10616,7 +10679,7 @@
 				(hide yes)
 			)
 		)
-		(property "Stock" "757295"
+		(property "Stock" "314690"
 			(at -1.27 0 0)
 			(effects
 				(font
@@ -10625,7 +10688,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "0.016USD"
+		(property "Price" "0.018USD"
 			(at -1.27 0 0)
 			(effects
 				(font
@@ -10670,7 +10733,7 @@
 				(hide yes)
 			)
 		)
-		(property "Category" "Diodes,Schottky Barrier Diodes (SBD)"
+		(property "Category" "Diodes,Schottky Diodes"
 			(at 0 0 0)
 			(effects
 				(font
@@ -10908,7 +10971,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2308281443_hongjiacheng-1SS181_C7502730.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8603005811870752768"
 			(at -2.286 0.127 0)
 			(effects
 				(font
@@ -10936,7 +10999,7 @@
 				(hide yes)
 			)
 		)
-		(property "Stock" "40065"
+		(property "Stock" "33303"
 			(at 0 0 0)
 			(effects
 				(font
@@ -10945,7 +11008,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "0.015USD"
+		(property "Price" "0.016USD"
 			(at 0 0 0)
 			(effects
 				(font
@@ -10990,7 +11053,7 @@
 				(hide yes)
 			)
 		)
-		(property "Category" "Diodes,Switching Diode"
+		(property "Category" "Diodes,Switching Diodes"
 			(at 0 0 0)
 			(effects
 				(font
@@ -11283,7 +11346,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2401290620_hongjiacheng-BAS21S_C7502726.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8602990882161778688"
 			(at -2.286 0.127 0)
 			(effects
 				(font
@@ -11311,7 +11374,7 @@
 				(hide yes)
 			)
 		)
-		(property "Stock" "241484"
+		(property "Stock" "199007"
 			(at 0 0 0)
 			(effects
 				(font
@@ -11320,7 +11383,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "0.018USD"
+		(property "Price" "0.019USD"
 			(at 0 0 0)
 			(effects
 				(font
@@ -11365,7 +11428,7 @@
 				(hide yes)
 			)
 		)
-		(property "Category" "Diodes,Switching Diode"
+		(property "Category" "Diodes,Switching Diodes"
 			(at 0 0 0)
 			(effects
 				(font
@@ -11595,7 +11658,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Jiangsu-Changjing-Electronics-Technology-Co---Ltd--BAV70_C68978.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8604753508130844672"
 			(at -2.286 0.127 0)
 			(effects
 				(font
@@ -11623,7 +11686,7 @@
 				(hide yes)
 			)
 		)
-		(property "Stock" "445960"
+		(property "Stock" "71014"
 			(at 0 0 0)
 			(effects
 				(font
@@ -11632,7 +11695,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "0.019USD"
+		(property "Price" "0.022USD"
 			(at 0 0 0)
 			(effects
 				(font
@@ -11677,7 +11740,7 @@
 				(hide yes)
 			)
 		)
-		(property "Category" "Diodes,Switching Diode"
+		(property "Category" "Diodes,Switching Diodes"
 			(at 0 0 0)
 			(effects
 				(font
@@ -11686,7 +11749,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Changjiang Electronics Tech (CJ)"
+		(property "Manufacturer" "Jiangsu Changjing Electronics Technology Co Ltd"
 			(at 0 0 0)
 			(effects
 				(font
@@ -11941,7 +12004,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2404031008_hongjiacheng-BAV70_C7420335.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8590905057489731584"
 			(at -2.286 0.127 0)
 			(effects
 				(font
@@ -11969,7 +12032,7 @@
 				(hide yes)
 			)
 		)
-		(property "Stock" "5475"
+		(property "Stock" "78953"
 			(at 0 0 0)
 			(effects
 				(font
@@ -11978,7 +12041,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "0.015USD"
+		(property "Price" "0.016USD"
 			(at 0 0 0)
 			(effects
 				(font
@@ -12023,7 +12086,7 @@
 				(hide yes)
 			)
 		)
-		(property "Category" "Diodes,Switching Diode"
+		(property "Category" "Diodes,Switching Diodes"
 			(at 0 0 0)
 			(effects
 				(font
@@ -12278,7 +12341,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2407250951_Nexperia-BAV99-215_C2500.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579707661589811200"
 			(at -2.286 0.127 0)
 			(effects
 				(font
@@ -12306,7 +12369,7 @@
 				(hide yes)
 			)
 		)
-		(property "Stock" "811701"
+		(property "Stock" "635002"
 			(at 0 0 0)
 			(effects
 				(font
@@ -12315,7 +12378,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "0.021USD"
+		(property "Price" "0.019USD"
 			(at 0 0 0)
 			(effects
 				(font
@@ -12360,7 +12423,7 @@
 				(hide yes)
 			)
 		)
-		(property "Category" "Diodes,Switching Diode"
+		(property "Category" "Diodes,Switching Diodes"
 			(at 0 0 0)
 			(effects
 				(font
@@ -12707,7 +12770,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2404031008_hongjiacheng-BAV99_C7420336.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8590905057476878336"
 			(at -2.286 0.127 0)
 			(effects
 				(font
@@ -12735,7 +12798,7 @@
 				(hide yes)
 			)
 		)
-		(property "Stock" "857401"
+		(property "Stock" "507303"
 			(at 0 0 0)
 			(effects
 				(font
@@ -12744,7 +12807,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "0.015USD"
+		(property "Price" "0.014USD"
 			(at 0 0 0)
 			(effects
 				(font
@@ -12789,7 +12852,7 @@
 				(hide yes)
 			)
 		)
-		(property "Category" "Diodes,Switching Diode"
+		(property "Category" "Diodes,Switching Diodes"
 			(at 0 0 0)
 			(effects
 				(font
@@ -13080,7 +13143,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2402021507_hongjiacheng-H15VNT2B_C20617928.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8590919429419188224"
 			(at -2.286 0.127 0)
 			(effects
 				(font
@@ -13108,7 +13171,7 @@
 				(hide yes)
 			)
 		)
-		(property "Stock" "12021"
+		(property "Stock" "5020"
 			(at 0 0 0)
 			(effects
 				(font
@@ -13117,7 +13180,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "0.048USD"
+		(property "Price" "0.052USD"
 			(at 0 0 0)
 			(effects
 				(font
@@ -13162,7 +13225,7 @@
 				(hide yes)
 			)
 		)
-		(property "Category" "TVS/Fuse/Board Level Protection,Electrostatic And Surge Protection (TVS/ESD)"
+		(property "Category" "Circuit Protection,ESD And Surge Protection (TVS/ESD)"
 			(at 0 0 0)
 			(effects
 				(font
@@ -13381,7 +13444,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2401261525_hongjiacheng-H24VNT2B_C20615827.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8590925361335390208"
 			(at -2.286 0.127 0)
 			(effects
 				(font
@@ -13409,7 +13472,7 @@
 				(hide yes)
 			)
 		)
-		(property "Stock" "18806"
+		(property "Stock" "267"
 			(at 0 0 0)
 			(effects
 				(font
@@ -13418,7 +13481,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "0.047USD"
+		(property "Price" "0.051USD"
 			(at 0 0 0)
 			(effects
 				(font
@@ -13463,7 +13526,7 @@
 				(hide yes)
 			)
 		)
-		(property "Category" "TVS/Fuse/Board Level Protection,Electrostatic And Surge Protection (TVS/ESD)"
+		(property "Category" "Circuit Protection,ESD And Surge Protection (TVS/ESD)"
 			(at 0 0 0)
 			(effects
 				(font
@@ -13718,7 +13781,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2401261525_hongjiacheng-H36VLT2B_C20615828.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8590925357254602752"
 			(at -2.286 0.127 0)
 			(effects
 				(font
@@ -13746,7 +13809,7 @@
 				(hide yes)
 			)
 		)
-		(property "Stock" "7777"
+		(property "Stock" "7308"
 			(at 0 0 0)
 			(effects
 				(font
@@ -13755,7 +13818,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "0.046USD"
+		(property "Price" "0.051USD"
 			(at 0 0 0)
 			(effects
 				(font
@@ -13800,7 +13863,7 @@
 				(hide yes)
 			)
 		)
-		(property "Category" "TVS/Fuse/Board Level Protection,Electrostatic And Surge Protection (TVS/ESD)"
+		(property "Category" "Circuit Protection,ESD And Surge Protection (TVS/ESD)"
 			(at 0 0 0)
 			(effects
 				(font
@@ -14136,7 +14199,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2402021507_hongjiacheng-H3V3HT2B_C20617923.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8590919431881650176"
 			(at -2.286 0.127 0)
 			(effects
 				(font
@@ -14164,7 +14227,7 @@
 				(hide yes)
 			)
 		)
-		(property "Stock" "43917"
+		(property "Stock" "41845"
 			(at 0 0 0)
 			(effects
 				(font
@@ -14173,7 +14236,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "0.031USD"
+		(property "Price" "0.034USD"
 			(at 0 0 0)
 			(effects
 				(font
@@ -14191,7 +14254,7 @@
 				(hide yes)
 			)
 		)
-		(property "Minimum Qty" "5"
+		(property "Minimum Qty" "10"
 			(at 0 0 0)
 			(effects
 				(font
@@ -14218,7 +14281,7 @@
 				(hide yes)
 			)
 		)
-		(property "Category" "TVS/Fuse/Board Level Protection,Electrostatic And Surge Protection (TVS/ESD)"
+		(property "Category" "Circuit Protection,ESD And Surge Protection (TVS/ESD)"
 			(at 0 0 0)
 			(effects
 				(font
@@ -14449,7 +14512,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2405091603_hongjiacheng-H4V5H22B_C22395518.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8603186935779647488"
 			(at -2.286 0.127 0)
 			(effects
 				(font
@@ -14477,7 +14540,7 @@
 				(hide yes)
 			)
 		)
-		(property "Stock" "5925"
+		(property "Stock" "5915"
 			(at 0 0 0)
 			(effects
 				(font
@@ -14486,7 +14549,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "0.092USD"
+		(property "Price" "0.100USD"
 			(at 0 0 0)
 			(effects
 				(font
@@ -14703,7 +14766,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2402021507_hongjiacheng-H5VHT2B_C20617926.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8590919428605493248"
 			(at -2.286 0.127 0)
 			(effects
 				(font
@@ -14731,7 +14794,7 @@
 				(hide yes)
 			)
 		)
-		(property "Stock" "5864"
+		(property "Stock" "1512"
 			(at 0 0 0)
 			(effects
 				(font
@@ -14740,7 +14803,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "0.048USD"
+		(property "Price" "0.052USD"
 			(at 0 0 0)
 			(effects
 				(font
@@ -14785,7 +14848,7 @@
 				(hide yes)
 			)
 		)
-		(property "Category" "TVS/Fuse/Board Level Protection,Electrostatic And Surge Protection (TVS/ESD)"
+		(property "Category" "Circuit Protection,ESD And Surge Protection (TVS/ESD)"
 			(at 0 0 0)
 			(effects
 				(font
@@ -15028,7 +15091,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2402021507_hongjiacheng-H5VNT2B_C20617925.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8590919426822914048"
 			(at -2.286 0.127 0)
 			(effects
 				(font
@@ -15056,7 +15119,7 @@
 				(hide yes)
 			)
 		)
-		(property "Stock" "119431"
+		(property "Stock" "104857"
 			(at 0 0 0)
 			(effects
 				(font
@@ -15065,7 +15128,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "0.035USD"
+		(property "Price" "0.038USD"
 			(at 0 0 0)
 			(effects
 				(font
@@ -15083,7 +15146,7 @@
 				(hide yes)
 			)
 		)
-		(property "Minimum Qty" "10"
+		(property "Minimum Qty" "5"
 			(at 0 0 0)
 			(effects
 				(font
@@ -15110,7 +15173,7 @@
 				(hide yes)
 			)
 		)
-		(property "Category" "TVS/Fuse/Board Level Protection,Electrostatic And Surge Protection (TVS/ESD)"
+		(property "Category" "Circuit Protection,ESD And Surge Protection (TVS/ESD)"
 			(at 0 0 0)
 			(effects
 				(font
@@ -15379,7 +15442,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2401261525_hongjiacheng-H8VNT2B_C20615825.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8590925405199015936"
 			(at -2.286 0.127 0)
 			(effects
 				(font
@@ -15407,7 +15470,7 @@
 				(hide yes)
 			)
 		)
-		(property "Stock" "62762"
+		(property "Stock" "62106"
 			(at 0 0 0)
 			(effects
 				(font
@@ -15416,7 +15479,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "0.045USD"
+		(property "Price" "0.049USD"
 			(at 0 0 0)
 			(effects
 				(font
@@ -15461,7 +15524,7 @@
 				(hide yes)
 			)
 		)
-		(property "Category" "TVS/Fuse/Board Level Protection,Electrostatic And Surge Protection (TVS/ESD)"
+		(property "Category" "Circuit Protection,ESD And Surge Protection (TVS/ESD)"
 			(at 0 0 0)
 			(effects
 				(font
@@ -15716,7 +15779,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_1811061632_ProTek-Devices-PSM712-LF-T7_C32677.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579709112560435200"
 			(at -2.286 0.127 0)
 			(effects
 				(font
@@ -15744,7 +15807,7 @@
 				(hide yes)
 			)
 		)
-		(property "Stock" "223826"
+		(property "Stock" "317834"
 			(at 0 0 0)
 			(effects
 				(font
@@ -15753,7 +15816,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "0.314USD"
+		(property "Price" "0.328USD"
 			(at 0 0 0)
 			(effects
 				(font
@@ -15798,7 +15861,7 @@
 				(hide yes)
 			)
 		)
-		(property "Category" "Circuit Protection,TVS"
+		(property "Category" "Circuit Protection,ESD And Surge Protection (TVS/ESD)"
 			(at 0 0 0)
 			(effects
 				(font
@@ -16082,7 +16145,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2308281515_hongjiacheng-SM712_C7420375.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8590905169016410112"
 			(at -2.286 0.127 0)
 			(effects
 				(font
@@ -16110,7 +16173,7 @@
 				(hide yes)
 			)
 		)
-		(property "Stock" "104740"
+		(property "Stock" "143295"
 			(at 0 0 0)
 			(effects
 				(font
@@ -16119,7 +16182,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "0.070USD"
+		(property "Price" "0.077USD"
 			(at 0 0 0)
 			(effects
 				(font
@@ -16164,7 +16227,7 @@
 				(hide yes)
 			)
 		)
-		(property "Category" "TVS/Fuse/Board Level Protection,ESD Protection Devices"
+		(property "Category" "Circuit Protection,ESD And Surge Protection (TVS/ESD)"
 			(at 0 0 0)
 			(effects
 				(font
@@ -16650,7 +16713,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2401261524_hongjiacheng-H12VH22U_C20615799.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8590925052680617984"
 			(at -2.286 0.127 0)
 			(effects
 				(font
@@ -16678,7 +16741,7 @@
 				(hide yes)
 			)
 		)
-		(property "Stock" "1256"
+		(property "Stock" "1236"
 			(at 0 0 0)
 			(effects
 				(font
@@ -16687,7 +16750,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "0.065USD"
+		(property "Price" "0.070USD"
 			(at 0 0 0)
 			(effects
 				(font
@@ -16732,7 +16795,7 @@
 				(hide yes)
 			)
 		)
-		(property "Category" "TVS/Fuse/Board Level Protection,Electrostatic And Surge Protection (TVS/ESD)"
+		(property "Category" "Circuit Protection,ESD And Surge Protection (TVS/ESD)"
 			(at 0 0 0)
 			(effects
 				(font
@@ -16903,7 +16966,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2401261525_hongjiacheng-H12VNT2U_C20615826.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8590925053384990720"
 			(at -2.286 0.127 0)
 			(effects
 				(font
@@ -16931,7 +16994,7 @@
 				(hide yes)
 			)
 		)
-		(property "Stock" "14795"
+		(property "Stock" "12680"
 			(at 0 0 0)
 			(effects
 				(font
@@ -16940,7 +17003,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "0.022USD"
+		(property "Price" "0.024USD"
 			(at 0 0 0)
 			(effects
 				(font
@@ -16985,7 +17048,7 @@
 				(hide yes)
 			)
 		)
-		(property "Category" "TVS/Fuse/Board Level Protection,Electrostatic And Surge Protection (TVS/ESD)"
+		(property "Category" "Circuit Protection,ESD And Surge Protection (TVS/ESD)"
 			(at 0 0 0)
 			(effects
 				(font
@@ -17204,7 +17267,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2401261525_hongjiacheng-H5VHT2U_C20615823.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8590925361540640768"
 			(at -2.286 0.127 0)
 			(effects
 				(font
@@ -17232,7 +17295,7 @@
 				(hide yes)
 			)
 		)
-		(property "Stock" "10962"
+		(property "Stock" "9530"
 			(at 0 0 0)
 			(effects
 				(font
@@ -17241,7 +17304,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "0.032USD"
+		(property "Price" "0.033USD"
 			(at 0 0 0)
 			(effects
 				(font
@@ -17286,7 +17349,7 @@
 				(hide yes)
 			)
 		)
-		(property "Category" "TVS/Fuse/Board Level Protection,Electrostatic And Surge Protection (TVS/ESD)"
+		(property "Category" "Circuit Protection,ESD And Surge Protection (TVS/ESD)"
 			(at 0 0 0)
 			(effects
 				(font
@@ -17505,7 +17568,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2401261524_hongjiacheng-H5VU13U_C20615795.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8590925043730108416"
 			(at -2.286 0.127 0)
 			(effects
 				(font
@@ -17533,7 +17596,7 @@
 				(hide yes)
 			)
 		)
-		(property "Stock" "30310"
+		(property "Stock" "37503"
 			(at 0 0 0)
 			(effects
 				(font
@@ -17542,7 +17605,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "0.030USD"
+		(property "Price" "0.033USD"
 			(at 0 0 0)
 			(effects
 				(font
@@ -17587,7 +17650,7 @@
 				(hide yes)
 			)
 		)
-		(property "Category" "TVS/Fuse/Board Level Protection,Electrostatic And Surge Protection (TVS/ESD)"
+		(property "Category" "Circuit Protection,ESD And Surge Protection (TVS/ESD)"
 			(at 0 0 0)
 			(effects
 				(font

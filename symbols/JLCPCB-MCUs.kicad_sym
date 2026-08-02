@@ -60,7 +60,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "2.203USD"
+		(property "Price" "2.408USD"
 			(at 0 0 0)
 			(effects
 				(font
@@ -69,7 +69,7 @@
 				(hide yes)
 			)
 		)
-		(property "Stock" "24149"
+		(property "Stock" "30390"
 			(at 0 0 0)
 			(effects
 				(font
@@ -114,7 +114,7 @@
 				(hide yes)
 			)
 		)
-		(property "Category" "Embedded Processors & Controllers,ATMEL & AVR"
+		(property "Category" "Embedded Processors & Controllers,Microcontrollers (MCU/MPU/SOC)"
 			(at 0 0 0)
 			(effects
 				(font
@@ -945,7 +945,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "1.185USD"
+		(property "Price" "1.115USD"
 			(at 0 0 0)
 			(effects
 				(font
@@ -954,7 +954,7 @@
 				(hide yes)
 			)
 		)
-		(property "Stock" "58327"
+		(property "Stock" "70872"
 			(at 0 0 0)
 			(effects
 				(font
@@ -999,7 +999,7 @@
 				(hide yes)
 			)
 		)
-		(property "Category" "Embedded Processors & Controllers,ST Microelectronics"
+		(property "Category" "Embedded Processors & Controllers,Microcontrollers (MCU/MPU/SOC)"
 			(at 0 0 0)
 			(effects
 				(font
@@ -2209,7 +2209,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "1.619USD"
+		(property "Price" "1.523USD"
 			(at 0 0 0)
 			(effects
 				(font
@@ -2218,7 +2218,7 @@
 				(hide yes)
 			)
 		)
-		(property "Stock" "218502"
+		(property "Stock" "270767"
 			(at 0 0 0)
 			(effects
 				(font
@@ -2263,7 +2263,7 @@
 				(hide yes)
 			)
 		)
-		(property "Category" "Embedded Processors & Controllers,ST Microelectronics"
+		(property "Category" "Embedded Processors & Controllers,Microcontrollers (MCU/MPU/SOC)"
 			(at 0 0 0)
 			(effects
 				(font
@@ -3519,7 +3519,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "0.544USD"
+		(property "Price" "0.507USD"
 			(at 0 0 0)
 			(effects
 				(font
@@ -3528,7 +3528,7 @@
 				(hide yes)
 			)
 		)
-		(property "Stock" "58106"
+		(property "Stock" "142802"
 			(at 0 0 0)
 			(effects
 				(font
@@ -3573,7 +3573,7 @@
 				(hide yes)
 			)
 		)
-		(property "Category" "Embedded Processors & Controllers,ST Microelectronics"
+		(property "Category" "Embedded Processors & Controllers,Microcontrollers (MCU/MPU/SOC)"
 			(at 0 0 0)
 			(effects
 				(font
@@ -4197,7 +4197,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "1.368USD"
+		(property "Price" "1.898USD"
 			(at 0 0 0)
 			(effects
 				(font
@@ -4206,7 +4206,7 @@
 				(hide yes)
 			)
 		)
-		(property "Stock" "310"
+		(property "Stock" "9323"
 			(at 0 0 0)
 			(effects
 				(font
@@ -4251,7 +4251,7 @@
 				(hide yes)
 			)
 		)
-		(property "Category" "Embedded Processors & Controllers,ST Microelectronics"
+		(property "Category" "Embedded Processors & Controllers,Microcontrollers (MCU/MPU/SOC)"
 			(at 0 0 0)
 			(effects
 				(font

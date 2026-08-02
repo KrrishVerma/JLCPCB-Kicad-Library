@@ -37,7 +37,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2310301640_Sunlord-GZ1608D601TF_C1002.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579709915071365120"
 			(at 0 0 0)
 			(effects
 				(font
@@ -64,7 +64,7 @@
 				(hide yes)
 			)
 		)
-		(property "Stock" "1339294"
+		(property "Stock" "892564"
 			(at 0 0 0)
 			(effects
 				(font
@@ -73,7 +73,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "0.017USD"
+		(property "Price" "0.022USD"
 			(at 0 0 0)
 			(effects
 				(font
@@ -118,7 +118,7 @@
 				(hide yes)
 			)
 		)
-		(property "Category" "Filters/EMI Optimization,Ferrite Beads"
+		(property "Category" "Filters,Ferrite Beads"
 			(at 0 0 0)
 			(effects
 				(font
@@ -145,24 +145,6 @@
 				(hide yes)
 			)
 		)
-		(property "DC Resistance" "450mΩ"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Impedance @ Frequency" "600Ω@100MHz"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Circuits" "1"
 			(at 0 0 0)
 			(effects
@@ -179,6 +161,24 @@
 					(size 0.8 0.8)
 				)
 				(justify left)
+			)
+		)
+		(property "DC Resistance" "450mΩ"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Impedance @ Frequency" "600Ω@100MHz"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(property "Tolerance" "±25%"
@@ -319,7 +319,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Murata-Electronics-BLM18PG121SN1D_C14709.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588900229559300096"
 			(at 0 0 0)
 			(effects
 				(font
@@ -346,7 +346,7 @@
 				(hide yes)
 			)
 		)
-		(property "Stock" "1929365"
+		(property "Stock" "1758406"
 			(at 0 0 0)
 			(effects
 				(font
@@ -355,7 +355,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "0.014USD"
+		(property "Price" "0.018USD"
 			(at 0 0 0)
 			(effects
 				(font
@@ -400,7 +400,7 @@
 				(hide yes)
 			)
 		)
-		(property "Category" "Filters/EMI Optimization,Ferrite Beads"
+		(property "Category" "Filters,Ferrite Beads"
 			(at 0 0 0)
 			(effects
 				(font
@@ -427,24 +427,6 @@
 				(hide yes)
 			)
 		)
-		(property "DC Resistance" "50mΩ"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Impedance @ Frequency" "120Ω@100MHz"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Circuits" "1"
 			(at 0 0 0)
 			(effects
@@ -461,6 +443,24 @@
 					(size 0.8 0.8)
 				)
 				(justify left)
+			)
+		)
+		(property "DC Resistance" "50mΩ"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Impedance @ Frequency" "120Ω@100MHz"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(property "Tolerance" "±25%"
@@ -601,7 +601,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2310301640_Sunlord-GZ2012D101TF_C1015.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8756360797063139328"
 			(at 0 0 0)
 			(effects
 				(font
@@ -628,7 +628,7 @@
 				(hide yes)
 			)
 		)
-		(property "Stock" "237039"
+		(property "Stock" "460438"
 			(at 0 0 0)
 			(effects
 				(font
@@ -637,7 +637,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "0.017USD"
+		(property "Price" "0.034USD"
 			(at 0 0 0)
 			(effects
 				(font
@@ -682,7 +682,7 @@
 				(hide yes)
 			)
 		)
-		(property "Category" "Filters/EMI Optimization,Ferrite Beads"
+		(property "Category" "Filters,Ferrite Beads"
 			(at 0 0 0)
 			(effects
 				(font
@@ -709,15 +709,6 @@
 				(hide yes)
 			)
 		)
-		(property "Impedance @ Frequency" "100Ω@100MHz"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Circuits" "1"
 			(at 0 0 0)
 			(effects
@@ -734,6 +725,15 @@
 					(size 0.8 0.8)
 				)
 				(justify left)
+			)
+		)
+		(property "Impedance @ Frequency" "100Ω@100MHz"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(property "Tolerance" "±25%"
@@ -874,7 +874,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2310301640_Sunlord-GZ2012D601TF_C1017.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8565214663974404096"
 			(at 0 0 0)
 			(effects
 				(font
@@ -901,7 +901,7 @@
 				(hide yes)
 			)
 		)
-		(property "Stock" "372837"
+		(property "Stock" "369732"
 			(at 0 0 0)
 			(effects
 				(font
@@ -910,7 +910,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "0.029USD"
+		(property "Price" "0.036USD"
 			(at 0 0 0)
 			(effects
 				(font
@@ -955,7 +955,7 @@
 				(hide yes)
 			)
 		)
-		(property "Category" "Filters/EMI Optimization,Ferrite Beads"
+		(property "Category" "Filters,Ferrite Beads"
 			(at 0 0 0)
 			(effects
 				(font
@@ -982,24 +982,6 @@
 				(hide yes)
 			)
 		)
-		(property "DC Resistance" "300mΩ"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Impedance @ Frequency" "600Ω@100MHz"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Circuits" "1"
 			(at 0 0 0)
 			(effects
@@ -1016,6 +998,24 @@
 					(size 0.8 0.8)
 				)
 				(justify left)
+			)
+		)
+		(property "DC Resistance" "300mΩ"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Impedance @ Frequency" "600Ω@100MHz"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(property "Tolerance" "±25%"
@@ -1156,7 +1156,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2310301641_Sunlord-SDCL1005C3N9STDF_C14033.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579709844187762688"
 			(at 0 0 0)
 			(effects
 				(font
@@ -1183,7 +1183,7 @@
 				(hide yes)
 			)
 		)
-		(property "Stock" "194135"
+		(property "Stock" "95333"
 			(at 0 0 0)
 			(effects
 				(font
@@ -1192,7 +1192,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "0.008USD"
+		(property "Price" "0.009USD"
 			(at 0 0 0)
 			(effects
 				(font
@@ -1237,7 +1237,7 @@
 				(hide yes)
 			)
 		)
-		(property "Category" "Inductors/Coils/Transformers,Inductors (SMD)"
+		(property "Category" "Inductors, Coils, Chokes,Inductors (SMD)"
 			(at 0 0 0)
 			(effects
 				(font
@@ -1264,6 +1264,24 @@
 				(hide yes)
 			)
 		)
+		(property "DC Resistance (DCR)" "200mΩ"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Frequency - Self Resonant" "4GHz"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Inductance" "3.9nH"
 			(at 0 0 0)
 			(effects
@@ -1282,25 +1300,7 @@
 				(hide yes)
 			)
 		)
-		(property "Frequency - Self Resonant" "4GHz"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Rated Current" "300mA"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "DC Resistance (DCR)" "200mΩ"
 			(at 0 0 0)
 			(effects
 				(font
@@ -1450,7 +1450,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2310301641_Sunlord-SDCL1005C15NJTDF_C27143.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8626367247873912832"
 			(at 0 0 0)
 			(effects
 				(font
@@ -1477,7 +1477,7 @@
 				(hide yes)
 			)
 		)
-		(property "Stock" "558205"
+		(property "Stock" "284724"
 			(at 0 0 0)
 			(effects
 				(font
@@ -1486,7 +1486,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "0.008USD"
+		(property "Price" "0.009USD"
 			(at 0 0 0)
 			(effects
 				(font
@@ -1531,7 +1531,7 @@
 				(hide yes)
 			)
 		)
-		(property "Category" "Inductors/Coils/Transformers,Inductors (SMD)"
+		(property "Category" "Inductors, Coils, Chokes,Inductors (SMD)"
 			(at 0 0 0)
 			(effects
 				(font
@@ -1558,6 +1558,24 @@
 				(hide yes)
 			)
 		)
+		(property "DC Resistance (DCR)" "500mΩ"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Frequency - Self Resonant" "2.3GHz"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Inductance" "15nH"
 			(at 0 0 0)
 			(effects
@@ -1576,24 +1594,6 @@
 				(hide yes)
 			)
 		)
-		(property "Frequency - Self Resonant" "2.3GHz"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Tolerance" "±5%"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Rated Current" "300mA"
 			(at 0 0 0)
 			(effects
@@ -1603,7 +1603,7 @@
 				(hide yes)
 			)
 		)
-		(property "DC Resistance (DCR)" "500mΩ"
+		(property "Tolerance" "±5%"
 			(at 0 0 0)
 			(effects
 				(font
@@ -1753,7 +1753,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2310301641_Sunlord-SDCL1005C10NJTDF_C27147.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579709817465716736"
 			(at 0 0 0)
 			(effects
 				(font
@@ -1780,7 +1780,7 @@
 				(hide yes)
 			)
 		)
-		(property "Stock" "100641"
+		(property "Stock" "93626"
 			(at 0 0 0)
 			(effects
 				(font
@@ -1789,7 +1789,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "0.008USD"
+		(property "Price" "0.009USD"
 			(at 0 0 0)
 			(effects
 				(font
@@ -1834,7 +1834,7 @@
 				(hide yes)
 			)
 		)
-		(property "Category" "Inductors/Coils/Transformers,Inductors (SMD)"
+		(property "Category" "Inductors, Coils, Chokes,Inductors (SMD)"
 			(at 0 0 0)
 			(effects
 				(font
@@ -1861,6 +1861,24 @@
 				(hide yes)
 			)
 		)
+		(property "DC Resistance (DCR)" "400mΩ"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Frequency - Self Resonant" "3.2GHz"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Inductance" "10nH"
 			(at 0 0 0)
 			(effects
@@ -1879,24 +1897,6 @@
 				(hide yes)
 			)
 		)
-		(property "Frequency - Self Resonant" "3.2GHz"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Tolerance" "±5%"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Rated Current" "300mA"
 			(at 0 0 0)
 			(effects
@@ -1906,7 +1906,7 @@
 				(hide yes)
 			)
 		)
-		(property "DC Resistance (DCR)" "400mΩ"
+		(property "Tolerance" "±5%"
 			(at 0 0 0)
 			(effects
 				(font
@@ -2021,6 +2021,309 @@
 			)
 		)
 	)
+	(symbol "4.7uH,15mA"
+		(pin_numbers hide)
+		(pin_names
+			(offset 0)
+		)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "L"
+			(at 1.2673 0.834 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "4.7uH,15mA"
+			(at 1.2673 -1.2122 0)
+			(effects
+				(font
+					(size 0.8 0.8)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "PCM_JLCPCB:L_0603"
+			(at -1.778 0 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8724361421372403712"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "15mA 2.1Ω 33MHz 35@10MHz 4.7uH ±10% 0603 Inductors (SMD) ROHS"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C1034"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Stock" "145818"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" "0.025USD"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Process" "SMT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Minimum Qty" "20"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Attrition Qty" "10"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Class" "Preferred Component"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Category" "Inductors, Coils, Chokes,Inductors (SMD)"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Sunlord"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part" "SDFL1608Q4R7KTF"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DC Resistance (DCR)" "2.1Ω"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Frequency - Self Resonant" "33MHz"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Inductance" "4.7uH"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Q @ Freq" "35@10MHz"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Rated Current" "15mA"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "±10%"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_keywords" ""
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_fp_filters" "L_*"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)		(symbol "4.7uH,15mA_0_1"
+			(arc
+				(start 0 -2.54)
+				(mid 0.6323 -1.905)
+				(end 0 -1.27)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(arc
+				(start 0 -1.27)
+				(mid 0.6323 -0.635)
+				(end 0 0)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(arc
+				(start 0 0)
+				(mid 0.6323 0.635)
+				(end 0 1.27)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(arc
+				(start 0 1.27)
+				(mid 0.6323 1.905)
+				(end 0 2.54)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+		)
+		(symbol "4.7uH,15mA_1_1"
+			(pin passive line
+				(at 0 3.81 270)
+				(length 1.27)
+				(name "~"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 0 -3.81 90)
+				(length 1.27)
+				(name "~"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+	)
 	(symbol "10uH,3mA"
 		(pin_numbers hide)
 		(pin_names
@@ -2056,7 +2359,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2310301641_Sunlord-SDFL1608S100KTF_C1035.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8755215265355444224"
 			(at 0 0 0)
 			(effects
 				(font
@@ -2083,7 +2386,7 @@
 				(hide yes)
 			)
 		)
-		(property "Stock" "97281"
+		(property "Stock" "102699"
 			(at 0 0 0)
 			(effects
 				(font
@@ -2092,7 +2395,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "0.017USD"
+		(property "Price" "0.022USD"
 			(at 0 0 0)
 			(effects
 				(font
@@ -2137,7 +2440,7 @@
 				(hide yes)
 			)
 		)
-		(property "Category" "Inductors/Coils/Transformers,Inductors (SMD)"
+		(property "Category" "Inductors, Coils, Chokes,Inductors (SMD)"
 			(at 0 0 0)
 			(effects
 				(font
@@ -2164,6 +2467,24 @@
 				(hide yes)
 			)
 		)
+		(property "DC Resistance (DCR)" "1.85Ω"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Frequency - Self Resonant" "17MHz"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Inductance" "10uH"
 			(at 0 0 0)
 			(effects
@@ -2182,24 +2503,6 @@
 				(hide yes)
 			)
 		)
-		(property "Frequency - Self Resonant" "17MHz"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Tolerance" "±10%"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Rated Current" "3mA"
 			(at 0 0 0)
 			(effects
@@ -2209,7 +2512,7 @@
 				(hide yes)
 			)
 		)
-		(property "DC Resistance (DCR)" "1.85Ω"
+		(property "Tolerance" "±10%"
 			(at 0 0 0)
 			(effects
 				(font
@@ -2359,7 +2662,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2310301641_Sunlord-SDCL1608C68NJTDF_C13415.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8755213939704127488"
 			(at 0 0 0)
 			(effects
 				(font
@@ -2386,7 +2689,7 @@
 				(hide yes)
 			)
 		)
-		(property "Stock" "162718"
+		(property "Stock" "93221"
 			(at 0 0 0)
 			(effects
 				(font
@@ -2395,7 +2698,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "0.015USD"
+		(property "Price" "0.024USD"
 			(at 0 0 0)
 			(effects
 				(font
@@ -2440,7 +2743,7 @@
 				(hide yes)
 			)
 		)
-		(property "Category" "Inductors/Coils/Transformers,Inductors (SMD)"
+		(property "Category" "Inductors, Coils, Chokes,Inductors (SMD)"
 			(at 0 0 0)
 			(effects
 				(font
@@ -2467,6 +2770,24 @@
 				(hide yes)
 			)
 		)
+		(property "DC Resistance (DCR)" "850mΩ"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Frequency - Self Resonant" "900MHz"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Inductance" "68nH"
 			(at 0 0 0)
 			(effects
@@ -2485,24 +2806,6 @@
 				(hide yes)
 			)
 		)
-		(property "Frequency - Self Resonant" "900MHz"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Tolerance" "±5%"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Rated Current" "300mA"
 			(at 0 0 0)
 			(effects
@@ -2512,7 +2815,7 @@
 				(hide yes)
 			)
 		)
-		(property "DC Resistance (DCR)" "850mΩ"
+		(property "Tolerance" "±5%"
 			(at 0 0 0)
 			(effects
 				(font
@@ -2662,7 +2965,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2310301641_Sunlord-SDFL2012Q1R0KTF_C1042.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8755215269147365376"
 			(at 0 0 0)
 			(effects
 				(font
@@ -2689,7 +2992,7 @@
 				(hide yes)
 			)
 		)
-		(property "Stock" "40799"
+		(property "Stock" "86871"
 			(at 0 0 0)
 			(effects
 				(font
@@ -2698,7 +3001,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "0.022USD"
+		(property "Price" "0.060USD"
 			(at 0 0 0)
 			(effects
 				(font
@@ -2743,7 +3046,7 @@
 				(hide yes)
 			)
 		)
-		(property "Category" "Inductors/Coils/Transformers,Inductors (SMD)"
+		(property "Category" "Inductors, Coils, Chokes,Inductors (SMD)"
 			(at 0 0 0)
 			(effects
 				(font
@@ -2770,7 +3073,7 @@
 				(hide yes)
 			)
 		)
-		(property "Inductance" "1uH"
+		(property "DC Resistance (DCR)" "400mΩ"
 			(at 0 0 0)
 			(effects
 				(font
@@ -2779,7 +3082,7 @@
 				(hide yes)
 			)
 		)
-		(property "Tolerance" "±10%"
+		(property "Inductance" "1uH"
 			(at 0 0 0)
 			(effects
 				(font
@@ -2797,7 +3100,7 @@
 				(hide yes)
 			)
 		)
-		(property "DC Resistance (DCR)" "400mΩ"
+		(property "Tolerance" "±10%"
 			(at 0 0 0)
 			(effects
 				(font
@@ -2947,7 +3250,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2302231101_FH--Guangdong-Fenghua-Advanced-Tech-CMI201209U2R2KT_C1043.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579705814520479744"
 			(at 0 0 0)
 			(effects
 				(font
@@ -2974,7 +3277,7 @@
 				(hide yes)
 			)
 		)
-		(property "Stock" "71233"
+		(property "Stock" "32412"
 			(at 0 0 0)
 			(effects
 				(font
@@ -2983,7 +3286,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "0.025USD"
+		(property "Price" "0.029USD"
 			(at 0 0 0)
 			(effects
 				(font
@@ -3028,7 +3331,7 @@
 				(hide yes)
 			)
 		)
-		(property "Category" "Inductors/Coils/Transformers,Inductors (SMD)"
+		(property "Category" "Inductors, Coils, Chokes,Inductors (SMD)"
 			(at 0 0 0)
 			(effects
 				(font
@@ -3037,7 +3340,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "FH(Guangdong Fenghua Advanced Tech)"
+		(property "Manufacturer" "FH Guangdong Fenghua Advanced Tech"
 			(at 0 0 0)
 			(effects
 				(font
@@ -3047,6 +3350,24 @@
 			)
 		)
 		(property "Part" "CMI201209U2R2KT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DC Resistance (DCR)" "600mΩ"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Frequency - Self Resonant" "50MHz"
 			(at 0 0 0)
 			(effects
 				(font
@@ -3073,24 +3394,6 @@
 				(hide yes)
 			)
 		)
-		(property "Frequency - Self Resonant" "50MHz"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Tolerance" "±10%"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Rated Current" "50mA"
 			(at 0 0 0)
 			(effects
@@ -3100,7 +3403,7 @@
 				(hide yes)
 			)
 		)
-		(property "DC Resistance (DCR)" "600mΩ"
+		(property "Tolerance" "±10%"
 			(at 0 0 0)
 			(effects
 				(font
@@ -3250,7 +3553,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2310301641_Sunlord-SDFL2012S100KTF_C1046.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8755216271300268032"
 			(at 0 0 0)
 			(effects
 				(font
@@ -3277,7 +3580,7 @@
 				(hide yes)
 			)
 		)
-		(property "Stock" "241402"
+		(property "Stock" "268891"
 			(at 0 0 0)
 			(effects
 				(font
@@ -3286,7 +3589,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "0.026USD"
+		(property "Price" "0.059USD"
 			(at 0 0 0)
 			(effects
 				(font
@@ -3331,7 +3634,7 @@
 				(hide yes)
 			)
 		)
-		(property "Category" "Inductors/Coils/Transformers,Inductors (SMD)"
+		(property "Category" "Inductors, Coils, Chokes,Inductors (SMD)"
 			(at 0 0 0)
 			(effects
 				(font
@@ -3358,7 +3661,7 @@
 				(hide yes)
 			)
 		)
-		(property "Inductance" "10uH"
+		(property "DC Resistance (DCR)" "1.15Ω"
 			(at 0 0 0)
 			(effects
 				(font
@@ -3367,7 +3670,7 @@
 				(hide yes)
 			)
 		)
-		(property "Tolerance" "±10%"
+		(property "Inductance" "10uH"
 			(at 0 0 0)
 			(effects
 				(font
@@ -3385,7 +3688,7 @@
 				(hide yes)
 			)
 		)
-		(property "DC Resistance (DCR)" "1.15Ω"
+		(property "Tolerance" "±10%"
 			(at 0 0 0)
 			(effects
 				(font
@@ -3535,7 +3838,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2310301641_Sunlord-SDFL2012T220KTF_C32375.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8755216630710312960"
 			(at 0 0 0)
 			(effects
 				(font
@@ -3562,7 +3865,7 @@
 				(hide yes)
 			)
 		)
-		(property "Stock" "25146"
+		(property "Stock" "31559"
 			(at 0 0 0)
 			(effects
 				(font
@@ -3571,7 +3874,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "0.027USD"
+		(property "Price" "0.073USD"
 			(at 0 0 0)
 			(effects
 				(font
@@ -3616,7 +3919,7 @@
 				(hide yes)
 			)
 		)
-		(property "Category" "Inductors/Coils/Transformers,Inductors (SMD)"
+		(property "Category" "Inductors, Coils, Chokes,Inductors (SMD)"
 			(at 0 0 0)
 			(effects
 				(font
@@ -3643,7 +3946,7 @@
 				(hide yes)
 			)
 		)
-		(property "Inductance" "22uH"
+		(property "DC Resistance (DCR)" "1.1Ω"
 			(at 0 0 0)
 			(effects
 				(font
@@ -3652,7 +3955,7 @@
 				(hide yes)
 			)
 		)
-		(property "Tolerance" "±10%"
+		(property "Inductance" "22uH"
 			(at 0 0 0)
 			(effects
 				(font
@@ -3670,7 +3973,7 @@
 				(hide yes)
 			)
 		)
-		(property "DC Resistance (DCR)" "1.1Ω"
+		(property "Tolerance" "±10%"
 			(at 0 0 0)
 			(effects
 				(font
@@ -3820,7 +4123,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_1810162253_TDK-MLF2012C101KT000_C68035.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588879037879607296"
 			(at 0 0 0)
 			(effects
 				(font
@@ -3847,7 +4150,7 @@
 				(hide yes)
 			)
 		)
-		(property "Stock" "44175"
+		(property "Stock" "12078"
 			(at 0 0 0)
 			(effects
 				(font
@@ -3856,7 +4159,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "0.040USD"
+		(property "Price" "0.063USD"
 			(at 0 0 0)
 			(effects
 				(font
@@ -3901,7 +4204,7 @@
 				(hide yes)
 			)
 		)
-		(property "Category" "Inductors/Coils/Transformers,Inductors (SMD)"
+		(property "Category" "Inductors, Coils, Chokes,Inductors (SMD)"
 			(at 0 0 0)
 			(effects
 				(font
@@ -3928,6 +4231,24 @@
 				(hide yes)
 			)
 		)
+		(property "DC Resistance (DCR)" "2.5Ω"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Frequency - Self Resonant" "7MHz"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Inductance" "100uH"
 			(at 0 0 0)
 			(effects
@@ -3946,24 +4267,6 @@
 				(hide yes)
 			)
 		)
-		(property "Frequency - Self Resonant" "7MHz"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Tolerance" "±10%"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Rated Current" "2mA"
 			(at 0 0 0)
 			(effects
@@ -3973,7 +4276,7 @@
 				(hide yes)
 			)
 		)
-		(property "DC Resistance (DCR)" "2.5Ω"
+		(property "Tolerance" "±10%"
 			(at 0 0 0)
 			(effects
 				(font
@@ -4123,7 +4426,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2302231101_FH--Guangdong-Fenghua-Advanced-Tech-CMI321609U4R7KT_C1049.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579705847536009216"
 			(at 0 0 0)
 			(effects
 				(font
@@ -4150,7 +4453,7 @@
 				(hide yes)
 			)
 		)
-		(property "Stock" "58857"
+		(property "Stock" "23984"
 			(at 0 0 0)
 			(effects
 				(font
@@ -4159,7 +4462,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "0.040USD"
+		(property "Price" "0.046USD"
 			(at 0 0 0)
 			(effects
 				(font
@@ -4204,7 +4507,7 @@
 				(hide yes)
 			)
 		)
-		(property "Category" "Inductors/Coils/Transformers,Inductors (SMD)"
+		(property "Category" "Inductors, Coils, Chokes,Inductors (SMD)"
 			(at 0 0 0)
 			(effects
 				(font
@@ -4213,7 +4516,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "FH(Guangdong Fenghua Advanced Tech)"
+		(property "Manufacturer" "FH Guangdong Fenghua Advanced Tech"
 			(at 0 0 0)
 			(effects
 				(font
@@ -4223,6 +4526,24 @@
 			)
 		)
 		(property "Part" "CMI321609U4R7KT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DC Resistance (DCR)" "650mΩ"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Frequency - Self Resonant" "35MHz"
 			(at 0 0 0)
 			(effects
 				(font
@@ -4249,24 +4570,6 @@
 				(hide yes)
 			)
 		)
-		(property "Frequency - Self Resonant" "35MHz"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Tolerance" "±10%"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Rated Current" "25mA"
 			(at 0 0 0)
 			(effects
@@ -4276,7 +4579,7 @@
 				(hide yes)
 			)
 		)
-		(property "DC Resistance (DCR)" "650mΩ"
+		(property "Tolerance" "±10%"
 			(at 0 0 0)
 			(effects
 				(font
@@ -4426,7 +4729,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2302231101_FH--Guangdong-Fenghua-Advanced-Tech-CMI321609X100KT_C1051.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579705850363379712"
 			(at 0 0 0)
 			(effects
 				(font
@@ -4453,7 +4756,7 @@
 				(hide yes)
 			)
 		)
-		(property "Stock" "138798"
+		(property "Stock" "47529"
 			(at 0 0 0)
 			(effects
 				(font
@@ -4462,7 +4765,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "0.041USD"
+		(property "Price" "0.047USD"
 			(at 0 0 0)
 			(effects
 				(font
@@ -4507,7 +4810,7 @@
 				(hide yes)
 			)
 		)
-		(property "Category" "Inductors/Coils/Transformers,Inductors (SMD)"
+		(property "Category" "Inductors, Coils, Chokes,Inductors (SMD)"
 			(at 0 0 0)
 			(effects
 				(font
@@ -4516,7 +4819,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "FH(Guangdong Fenghua Advanced Tech)"
+		(property "Manufacturer" "FH Guangdong Fenghua Advanced Tech"
 			(at 0 0 0)
 			(effects
 				(font
@@ -4526,6 +4829,24 @@
 			)
 		)
 		(property "Part" "CMI321609X100KT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DC Resistance (DCR)" "800mΩ"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Frequency - Self Resonant" "24MHz"
 			(at 0 0 0)
 			(effects
 				(font
@@ -4552,24 +4873,6 @@
 				(hide yes)
 			)
 		)
-		(property "Frequency - Self Resonant" "24MHz"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Tolerance" "±10%"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Rated Current" "25mA"
 			(at 0 0 0)
 			(effects
@@ -4579,7 +4882,7 @@
 				(hide yes)
 			)
 		)
-		(property "DC Resistance (DCR)" "800mΩ"
+		(property "Tolerance" "±10%"
 			(at 0 0 0)
 			(effects
 				(font

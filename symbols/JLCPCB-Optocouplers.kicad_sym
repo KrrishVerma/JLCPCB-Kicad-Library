@@ -38,7 +38,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_1811092010_Lite-On-LTV-217-B-G_C115450.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8586197836349755392"
 			(at 0 0 0)
 			(effects
 				(font
@@ -75,7 +75,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Lite-On"
+		(property "Manufacturer" "Lite On"
 			(at 0 0 0)
 			(effects
 				(font
@@ -84,7 +84,7 @@
 				(hide yes)
 			)
 		)
-		(property "Category" "Optoelectronics,Optocouplers - Phototransistor Output"
+		(property "Category" "Optoisolators,Transistor, Photovoltaic Output Optoisolators"
 			(at 0 0 0)
 			(effects
 				(font
@@ -129,7 +129,7 @@
 				(hide yes)
 			)
 		)
-		(property "Stock" "418418"
+		(property "Stock" "431841"
 			(at 0 0 0)
 			(effects
 				(font
@@ -138,7 +138,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "0.071USD"
+		(property "Price" "0.082USD"
 			(at 0 0 0)
 			(effects
 				(font

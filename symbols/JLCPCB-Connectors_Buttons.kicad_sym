@@ -33,7 +33,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_XUNPU-TS-1088-AR02016_C720477.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588886944068096000"
 			(at -2.286 0.127 0)
 			(effects
 				(font
@@ -43,7 +43,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "-30°C~+80°C 1.6N 100,000 cycles 12V 2mm 3mm 4mm 50mA Black Round Button SMD(SMT) Tab SPST Surface Mount,Vertical Without Bracket SMD,4x3mm Tactile Switches ROHS"
+		(property "Description" "-30°C~+80°C 1.6N 100,000 cycles 12V 2mm 3.9mm 3mm 50mA Black Round Button SMD(SMT) Tab SPST Surface Mount,Vertical Without Bracket SMD,4x3mm Tactile Switches ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -61,7 +61,7 @@
 				(hide yes)
 			)
 		)
-		(property "Stock" "619530"
+		(property "Stock" "877449"
 			(at 0 0 0)
 			(effects
 				(font
@@ -70,7 +70,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "0.053USD"
+		(property "Price" "0.059USD"
 			(at 0 0 0)
 			(effects
 				(font
@@ -460,7 +460,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_XKB-Connection-TS-1187A-B-A-B_C318884.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8550724022091735041"
 			(at -2.286 0.127 0)
 			(effects
 				(font
@@ -488,7 +488,7 @@
 				(hide yes)
 			)
 		)
-		(property "Stock" "1580676"
+		(property "Stock" "1683297"
 			(at 0 0 0)
 			(effects
 				(font
@@ -497,7 +497,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "0.025USD"
+		(property "Price" "0.026USD"
 			(at 0 0 0)
 			(effects
 				(font
@@ -551,7 +551,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "XKB Connectivity"
+		(property "Manufacturer" "XKB Connection"
 			(at 0 0 0)
 			(effects
 				(font

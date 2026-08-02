@@ -32,7 +32,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_1810151812_Analog-Devices-ADUM1201ARZ-RL7_C9669.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579709506126995456"
 			(at -2.286 0.127 0)
 			(effects
 				(font
@@ -60,7 +60,7 @@
 				(hide yes)
 			)
 		)
-		(property "Stock" "24286"
+		(property "Stock" "59135"
 			(at 0 0 0)
 			(effects
 				(font
@@ -69,7 +69,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "1.790USD"
+		(property "Price" "2.000USD"
 			(at 0 0 0)
 			(effects
 				(font
@@ -114,7 +114,7 @@
 				(hide yes)
 			)
 		)
-		(property "Category" "Interface ICs,Digital Isolators"
+		(property "Category" "Signal Isolation Devices,Digital Isolators"
 			(at 0 0 0)
 			(effects
 				(font
@@ -3771,7 +3771,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2404031725_Holtek-Semicon-HT1621B_C7532.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579709589740584960"
 			(at -2.286 0.127 0)
 			(effects
 				(font
@@ -3799,7 +3799,7 @@
 				(hide yes)
 			)
 		)
-		(property "Stock" "19488"
+		(property "Stock" "5314"
 			(at 0 0 0)
 			(effects
 				(font
@@ -3808,7 +3808,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "0.622USD"
+		(property "Price" "0.677USD"
 			(at 0 0 0)
 			(effects
 				(font
@@ -3853,7 +3853,7 @@
 				(hide yes)
 			)
 		)
-		(property "Category" "Display Modules / LED Drivers / Display Drivers,LCD Drivers"
+		(property "Category" "LED Drivers,LCD Drivers"
 			(at 0 0 0)
 			(effects
 				(font
