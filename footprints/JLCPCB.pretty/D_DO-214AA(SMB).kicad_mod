@@ -1,0 +1,203 @@
+(footprint "D_DO-214AA(SMB)"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "SMB (DO-214AA) 2 pin diode footprint. Pad geometry per JEDEC DO-214AA land pattern, https://www.vishay.com/docs/88503/do214aa.pdf")
+	(tags "SMB DO-214AA footprint")
+	(property "Reference" "REF**"
+		(at 0 -3.4 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "d12449c5-2cc7-4bcf-8719-5e03ebfce36b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "DO-214AA_SMB"
+		(at 0 3.4 0)
+		(layer "F.Fab")
+		(uuid "a9855012-b47c-45d8-b8e2-5e2b088f0e30")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4468783f-6722-4744-998b-64f11a8789bf")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0c23d99a-f2d5-499d-a987-73b516d4d44d")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0f590cf0-22b0-492e-b00a-5e10e1e66ea7")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -2.29 -1.91)
+		(end -2.29 -1.7)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "fe97a1bc-cc02-480b-ba64-15546509fcdd")
+	)
+	(fp_line
+		(start -2.29 -1.91)
+		(end 2.29 -1.91)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "30e1bf66-a23f-47fe-a45e-4fb0e2529570")
+	)
+	(fp_line
+		(start -2.29 1.7)
+		(end -2.29 1.91)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "423da93a-0f23-44cf-86be-3be2fa00a49b")
+	)
+	(fp_line
+		(start -2.29 1.91)
+		(end 2.29 1.91)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "e449161f-9244-4a13-aa18-24154cb57f01")
+	)
+	(fp_line
+		(start -0.87 1.91)
+		(end -0.87 -1.91)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "4758be92-a764-4a1c-b9f6-2ee1297d6a30")
+	)
+	(fp_line
+		(start 2.29 -1.91)
+		(end 2.29 -1.7)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "0e462e23-41ab-49e1-a52f-eaf2d13c864e")
+	)
+	(fp_line
+		(start 2.29 1.7)
+		(end 2.29 1.91)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "e0082f9b-4bd1-4c1f-a063-9b66e9b0d838")
+	)
+	(fp_line
+		(start -3.15 -2.15)
+		(end 3.15 -2.15)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "1275727a-ae73-46e8-94d5-8af83c1eb5e9")
+	)
+	(fp_line
+		(start -3.15 2.15)
+		(end -3.15 -2.15)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "c8e0ad8f-11fd-4c7d-bd14-41f6e68e04e2")
+	)
+	(fp_line
+		(start 3.15 -2.15)
+		(end 3.15 2.15)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "1727f270-23ec-4636-bbb7-66784388dea2")
+	)
+	(fp_line
+		(start 3.15 2.15)
+		(end -3.15 2.15)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "17ff4f38-267f-4134-86c5-a6986d733b6b")
+	)
+	(fp_text user "REF**"
+		(at 0 4.3 0)
+		(layer "F.Fab")
+		(uuid "4d93e0ae-0272-4fad-b505-d43d12ee3ecf")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd roundrect
+		(at -2 0 180)
+		(size 1.8 2.2)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(roundrect_rratio 0.1388888889)
+		(uuid "d8f76f14-2b3b-4abd-a5a7-5980b4bab812")
+	)
+	(pad "2" smd roundrect
+		(at 2 0 180)
+		(size 1.8 2.2)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(roundrect_rratio 0.1388888889)
+		(uuid "6bd2be81-c4b9-47f9-a034-daacef90ba9c")
+	)
+)

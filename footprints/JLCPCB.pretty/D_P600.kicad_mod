@@ -1,0 +1,254 @@
+(footprint "D_P600"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "Diode, P600/R-6 series, Axial THT, pin pitch=12.7mm, length*diameter=9.1*9.1mm^2, https://www.vishay.com/docs/88692/p600a.pdf, https://www.diodes.com/_files/packages/R-6.pdf")
+	(tags "P600 R-6 Axial THT diode footprint")
+	(property "Reference" "REF**"
+		(at 6.35 -5.8 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "74af696f-bfdd-47f5-b068-a4c2ffbdcfad")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "P600_R-6"
+		(at 6.35 5.8 0)
+		(layer "F.Fab")
+		(uuid "7f0dcfcb-2ed9-4c64-ac14-40653524b9b6")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4b9f8c8d-550d-49d8-be66-0e121d680f8e")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4e917c2d-4d55-440f-9548-8d4ea5a76b0d")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d22e3d03-d1c2-4084-af7b-96aad51d3c73")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start 1.8 -4.55)
+		(end 1.8 4.55)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "5a035990-46e6-4c39-b8a8-0df226744d60")
+	)
+	(fp_line
+		(start 1.8 4.55)
+		(end 10.9 4.55)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "979b2043-628a-444e-a2a9-1568a624fa38")
+	)
+	(fp_line
+		(start 10.9 4.55)
+		(end 10.9 -4.55)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "13e29a42-cb66-46af-87f9-bc762287efbb")
+	)
+	(fp_line
+		(start 10.9 -4.55)
+		(end 1.8 -4.55)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "6bc179f1-3779-493f-9926-af4fe050c859")
+	)
+	(fp_line
+		(start 1.68 -1.84)
+		(end 1.68 -4.67)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "788ec810-c57a-407b-8faa-d5af1ae96bf8")
+	)
+	(fp_line
+		(start 1.68 -4.67)
+		(end 11.02 -4.67)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "ac88d42f-7ca7-4503-b29b-bc1a6d0fbe13")
+	)
+	(fp_line
+		(start 11.02 -4.67)
+		(end 11.02 -1.84)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "6f0a5f1a-e3d4-4a5e-9c2a-1a2b3c4d5e6f")
+	)
+	(fp_line
+		(start 1.68 1.84)
+		(end 1.68 4.67)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "7a1b6f2b-f4e5-4b6f-8d3b-2b3c4d5e6f7a")
+	)
+	(fp_line
+		(start 1.68 4.67)
+		(end 11.02 4.67)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "8b2c7f3c-a5f6-4c7a-9e4c-3c4d5e6f7a8b")
+	)
+	(fp_line
+		(start 11.02 4.67)
+		(end 11.02 1.84)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "9c3d8a4d-b6a7-4d8b-af5d-4d5e6f7a8b9c")
+	)
+	(fp_line
+		(start 3.165 -4.67)
+		(end 3.165 4.67)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "ad4e9b5e-c7b8-4e9c-b06e-5e6f7a8b9c0d")
+	)
+	(fp_line
+		(start -1.85 -4.8)
+		(end -1.85 4.8)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "be5f0c6f-d8c9-4f0d-c17f-6f7a8b9c0d1e")
+	)
+	(fp_line
+		(start -1.85 4.8)
+		(end 14.55 4.8)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "cf6a1d70-e9da-4a1e-d280-7a8b9c0d1e2f")
+	)
+	(fp_line
+		(start 14.55 4.8)
+		(end 14.55 -4.8)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "d07b2e81-fa0b-4b2f-e391-8b9c0d1e2f30")
+	)
+	(fp_line
+		(start 14.55 -4.8)
+		(end -1.85 -4.8)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "e18c3f92-0b1c-4c30-f4a2-9c0d1e2f3041")
+	)
+	(fp_text user "REF**"
+		(at 6.35 0 0)
+		(layer "F.Fab")
+		(uuid "f29d4003-1c2d-4d41-05b3-0d1e2f304152")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_text user "K"
+		(at 0 -2.6 0)
+		(layer "F.Fab")
+		(uuid "032e5114-2d3e-4e52-1601-1e2f30415263")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole rect
+		(at 0 0)
+		(size 3.2 3.2)
+		(drill 1.6)
+		(layers "*.Cu" "*.Mask")
+		(uuid "144f6225-3e4f-4f63-2712-2f3041526374")
+	)
+	(pad "2" thru_hole oval
+		(at 12.7 0)
+		(size 3.2 3.2)
+		(drill 1.6)
+		(layers "*.Cu" "*.Mask")
+		(uuid "255a7336-4f50-4074-3823-304152637485")
+	)
+)
