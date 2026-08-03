@@ -28327,7 +28327,7 @@
             )
         )
 	)
-	(symbol "NPN,D882 160-320"
+	(symbol "NPNC2,D882 160-320"
 		(pin_names
 			(offset 0)
 		)
@@ -28352,7 +28352,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:Q_SOT-89-3L"
+		(property "Footprint" "PCM_JLCPCB:Q_SOT-89"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -28567,7 +28567,7 @@
 				)
 				(hide yes)
 			)
-		)		(symbol "NPN,D882 160-320_0_1"
+		)		(symbol "NPNC2,D882 160-320_0_1"
             (polyline
                 (pts
                     (xy -2.54 0) (xy 0.635 0)
@@ -28664,7 +28664,7 @@
                 )
             )
         )
-        (symbol "NPN,D882 160-320_1_1"
+        (symbol "NPNC2,D882 160-320_1_1"
             (pin open_collector line
                 (at 2.54 5.08 270)
                 (length 2.54)
@@ -28675,7 +28675,7 @@
                         )
                     )
                 )
-                (number "3"
+                (number "2"
                     (effects
                         (font
                             (size 1.27 1.27)
@@ -28711,7 +28711,7 @@
                         )
                     )
                 )
-                (number "2"
+                (number "3"
                     (effects
                         (font
                             (size 1.27 1.27)
@@ -28721,7 +28721,7 @@
             )
         )
 	)
-	(symbol "PNP,B772 160-320"
+	(symbol "PNPC2,B772 160-320"
 		(pin_names
 			(offset 0)
 		)
@@ -28746,7 +28746,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:Q_SOT-89-3L"
+		(property "Footprint" "PCM_JLCPCB:Q_SOT-89"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -28961,7 +28961,7 @@
 				)
 				(hide yes)
 			)
-		)		(symbol "PNP,B772 160-320_0_1"
+		)		(symbol "PNPC2,B772 160-320_0_1"
             (polyline
                 (pts
                     (xy -2.54 0) (xy 0.635 0)
@@ -29034,7 +29034,7 @@
                 )
             )
         )
-        (symbol "PNP,B772 160-320_1_1"
+        (symbol "PNPC2,B772 160-320_1_1"
             (pin open_collector line
                 (at 2.54 5.08 270)
                 (length 2.54)
@@ -29045,7 +29045,7 @@
                         )
                     )
                 )
-                (number "3"
+                (number "2"
                     (effects
                         (font
                             (size 1.27 1.27)
@@ -29081,7 +29081,7 @@
                         )
                     )
                 )
-                (number "2"
+                (number "3"
                     (effects
                         (font
                             (size 1.27 1.27)
