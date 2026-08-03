@@ -251,4 +251,15 @@
 		(layers "*.Cu" "*.Mask")
 		(uuid "255a7336-4f50-4074-3823-304152637485")
 	)
+	(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/P600_R-6.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
 )
