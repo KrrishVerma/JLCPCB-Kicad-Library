@@ -638,7 +638,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "nan"
+		(property "Description" "-55°C~+150°C 1V@100mA 200mA 2uA@25V 3 Independent 30V 600mA SOT-363 Schottky Diodes ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -2880,7 +2880,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "nan"
+		(property "Description" "-55°C~+125°C 0.3pF、0.6pF 15V 500nA 5A@8/20us 5V 6V 75W@8/20us Bidirectional ESD IEC 61000-4-2、IEC 61000-4-5 SOT-143 ESD and Surge Protection (TVS/ESD) ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -7951,7 +7951,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "nan"
+		(property "Description" "1 Independent 1V@40mA 200mA 200nA 40V 600mA SOT-23 Schottky Diodes ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -8272,7 +8272,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "nan"
+		(property "Description" "-55°C~+125°C 1 Pair Series Connection 100mA 100nA 1V@15mA 70V 70mA SOT-23 Schottky Diodes ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -8608,7 +8608,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "nan"
+		(property "Description" "-55°C~+125°C 1 Pair Common Anode 100mA 1V@15mA 200nA@50V 70V 70mA SOT-23 Schottky Diodes ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -8874,7 +8874,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "nan"
+		(property "Description" "1 Pair Common Cathode 100mA 100nA@50V 1V@15mA 70V 70mA SOT-323 Schottky Diodes ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -9187,7 +9187,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "nan"
+		(property "Description" "1 Pair Common Anode 1V@100mA 200mA 2uA@25V 30V 600mA SOT-323 Schottky Diodes ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -9773,7 +9773,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "nan"
+		(property "Description" "1 Pair Common Cathode 1V@100mA 200mA 2uA@25V 30V 600mA SOT-323 Schottky Diodes ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -10083,7 +10083,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "nan"
+		(property "Description" "1 Pair Common Cathode 1V@100mA 200mA 2uA@25V 30V 600mA SOT-23 Schottky Diodes ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -10396,7 +10396,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "nan"
+		(property "Description" "1 Pair Series Connection 1V@100mA 200mA 2uA@25V 30V 600mA SOT-323 Schottky Diodes ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -10981,7 +10981,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "nan"
+		(property "Description" "-55°C~+150°C 1 Pair Common Anode 1.2V@100mA 100mA 150mW 2A 4ns 500nA 80V SOT-23 Switching Diodes ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -11356,7 +11356,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "nan"
+		(property "Description" "-55°C~+150°C 1 Pair Series Connection 1.25V@200mA 100nA 2.5A 200mA 225mW 250V 50ns SOT-23 Switching Diodes ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -14522,7 +14522,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "nan"
+		(property "Description" "-55°C~+125°C 1uA 280A@8/20us 4.5V 5.88kW@8/20us 650pF 6V 8.5V、21V Bidirectional ESD IEC 61000-4-2、IEC 61000-4-5 DFN2020-3L ESD and Surge Protection (TVS/ESD) ROHS"
 			(at 0 0 0)
 			(effects
 				(font

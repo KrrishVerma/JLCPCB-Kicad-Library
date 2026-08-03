@@ -1459,7 +1459,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "nan"
+		(property "Description" "15nH 2.3GHz 300mA 500mΩ 8@100MHz ±5% 0402 Inductors (SMD) ROHS"
 			(at 0 0 0)
 			(effects
 				(font
