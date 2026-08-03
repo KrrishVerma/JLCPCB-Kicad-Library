@@ -29,17 +29,19 @@ A full KiCad library containing matched schematic symbols and PCB footprints, co
 
 ## Install using the package manager
 
-Add my custom repository to the Plugin and Content Manager, the URL is:
+Add this custom repository to the Plugin and Content Manager, the URL is:
 
 ```
-https://raw.githubusercontent.com/CDFER/cd_fer-kicad-repository/main/repository.json
+https://raw.githubusercontent.com/KrrishVerma/jlcpcb-kicad-repository/main/repository.json
 ```
 
 ![Add My Custom Kicad Package Repo](images/Add_Custom_Repo.avif)
 
 ![Select My Custom Kicad Package Repo and press install](images/Select_Custom_Repo.avif)
 
-After adding the repository link, press Save. Then, select CD_FER's KiCad repository from the dropdown menu and click on the JLCPCB KiCad Library. Finally, click the Install button and apply the pending changes.
+After adding the repository link, press Save. Then, select the repository from the dropdown menu and click on "JLCPCB KiCad Library". Finally, click the Install button and apply the pending changes.
+
+Updates are published automatically on a daily schedule, so once installed you'll periodically see an update notification in PCM — no manual syncing needed.
 
 ### Install Guide Video
 
@@ -84,6 +86,6 @@ If you’re making 5 circuit boards, and each needs 10 resistors, you’d need 5
 
 ## License
 
-This library is released under the MIT license
+This library is released under the MIT license.
 
-© 2024 Chris Dirks
+Originally created by Chris Dirks (CDFER); this is an independently maintained fork with its own parts-database source and release pipeline, maintained by Krrish Verma.
