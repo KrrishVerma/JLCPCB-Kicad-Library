@@ -179,6 +179,15 @@ def generate_kicad_symbol(
         footprint = "SMB"
     if footprint == "SOT-23-3":
         footprint = "SOT-23"
+    if footprint == "DO-214AB(SMC)":
+        # JLCPCB's own "package" field is inconsistently ordered across parts
+        # that use the exact same physical SMC package: most report it as
+        # "SMC(DO-214AB)" (matching the real footprint file,
+        # D_SMC(DO-214AB).kicad_mod), but at least one part (5.0SMDJ85CA)
+        # reports the reversed "DO-214AB(SMC)" instead, producing a
+        # "D_DO-214AB(SMC)" footprint reference that doesn't exist anywhere.
+        # Normalize it to the ordering the real file actually uses.
+        footprint = "SMC(DO-214AB)"
 
     if name in names_lookup:
         if name + ",(2)" not in names_lookup:
