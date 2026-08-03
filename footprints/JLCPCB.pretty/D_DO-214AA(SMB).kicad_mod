@@ -3,7 +3,7 @@
 	(generator "pcbnew")
 	(generator_version "8.0")
 	(layer "F.Cu")
-	(descr "SMB (DO-214AA) 2 pin diode footprint. Pad geometry per JEDEC DO-214AA land pattern, https://www.vishay.com/docs/88503/do214aa.pdf")
+	(descr "SMB (DO-214AA) 2 pin diode footprint. Pad geometry matches KiCad's official Diode_SMD.pretty/D_SMB.kicad_mod (pads 2.5x2.3mm at +/-2.15mm), so the D_SMB.step 3D model aligns correctly.")
 	(tags "SMB DO-214AA footprint")
 	(property "Reference" "REF**"
 		(at 0 -3.4 0)
@@ -66,8 +66,8 @@
 	)
 	(attr smd)
 	(fp_line
-		(start -2.29 -1.91)
-		(end -2.29 -1.7)
+		(start -2.3 -2)
+		(end -2.3 -1.8)
 		(stroke
 			(width 0.15)
 			(type solid)
@@ -76,8 +76,8 @@
 		(uuid "fe97a1bc-cc02-480b-ba64-15546509fcdd")
 	)
 	(fp_line
-		(start -2.29 -1.91)
-		(end 2.29 -1.91)
+		(start -2.3 -2)
+		(end 2.3 -2)
 		(stroke
 			(width 0.15)
 			(type solid)
@@ -86,8 +86,8 @@
 		(uuid "30e1bf66-a23f-47fe-a45e-4fb0e2529570")
 	)
 	(fp_line
-		(start -2.29 1.7)
-		(end -2.29 1.91)
+		(start -2.3 1.8)
+		(end -2.3 2)
 		(stroke
 			(width 0.15)
 			(type solid)
@@ -96,8 +96,8 @@
 		(uuid "423da93a-0f23-44cf-86be-3be2fa00a49b")
 	)
 	(fp_line
-		(start -2.29 1.91)
-		(end 2.29 1.91)
+		(start -2.3 2)
+		(end 2.3 2)
 		(stroke
 			(width 0.15)
 			(type solid)
@@ -106,8 +106,8 @@
 		(uuid "e449161f-9244-4a13-aa18-24154cb57f01")
 	)
 	(fp_line
-		(start -0.87 1.91)
-		(end -0.87 -1.91)
+		(start -0.87 2)
+		(end -0.87 -2)
 		(stroke
 			(width 0.15)
 			(type solid)
@@ -116,8 +116,8 @@
 		(uuid "4758be92-a764-4a1c-b9f6-2ee1297d6a30")
 	)
 	(fp_line
-		(start 2.29 -1.91)
-		(end 2.29 -1.7)
+		(start 2.3 -2)
+		(end 2.3 -1.8)
 		(stroke
 			(width 0.15)
 			(type solid)
@@ -126,8 +126,8 @@
 		(uuid "0e462e23-41ab-49e1-a52f-eaf2d13c864e")
 	)
 	(fp_line
-		(start 2.29 1.7)
-		(end 2.29 1.91)
+		(start 2.3 1.8)
+		(end 2.3 2)
 		(stroke
 			(width 0.15)
 			(type solid)
@@ -136,8 +136,8 @@
 		(uuid "e0082f9b-4bd1-4c1f-a063-9b66e9b0d838")
 	)
 	(fp_line
-		(start -3.15 -2.15)
-		(end 3.15 -2.15)
+		(start -3.65 -2.25)
+		(end 3.65 -2.25)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -146,8 +146,8 @@
 		(uuid "1275727a-ae73-46e8-94d5-8af83c1eb5e9")
 	)
 	(fp_line
-		(start -3.15 2.15)
-		(end -3.15 -2.15)
+		(start -3.65 2.25)
+		(end -3.65 -2.25)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -156,8 +156,8 @@
 		(uuid "c8e0ad8f-11fd-4c7d-bd14-41f6e68e04e2")
 	)
 	(fp_line
-		(start 3.15 -2.15)
-		(end 3.15 2.15)
+		(start 3.65 -2.25)
+		(end 3.65 2.25)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -166,8 +166,8 @@
 		(uuid "1727f270-23ec-4636-bbb7-66784388dea2")
 	)
 	(fp_line
-		(start 3.15 2.15)
-		(end -3.15 2.15)
+		(start 3.65 2.25)
+		(end -3.65 2.25)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -187,17 +187,28 @@
 		)
 	)
 	(pad "1" smd roundrect
-		(at -2 0 180)
-		(size 1.8 2.2)
+		(at -2.15 0 180)
+		(size 2.5 2.3)
 		(layers "F.Cu" "F.Paste" "F.Mask")
-		(roundrect_rratio 0.1388888889)
+		(roundrect_rratio 0.1086956522)
 		(uuid "d8f76f14-2b3b-4abd-a5a7-5980b4bab812")
 	)
 	(pad "2" smd roundrect
-		(at 2 0 180)
-		(size 1.8 2.2)
+		(at 2.15 0 180)
+		(size 2.5 2.3)
 		(layers "F.Cu" "F.Paste" "F.Mask")
-		(roundrect_rratio 0.1388888889)
+		(roundrect_rratio 0.1086956522)
 		(uuid "6bd2be81-c4b9-47f9-a034-daacef90ba9c")
+	)
+	(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/D_SMB.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
 	)
 )
