@@ -24969,7 +24969,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:D_DO-214AB(SMC)"
+		(property "Footprint" "PCM_JLCPCB:D_SMC(DO-214AB)"
 			(at -1.778 0 90)
 			(effects
 				(font
