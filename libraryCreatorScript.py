@@ -548,6 +548,18 @@ def check_footprints():
                                     )
                                     shutil.move(pre_move_file_path, post_move_file_path)
                                     archived_footprint_names.remove(footprint_name)
+                                    # Multiple symbols can share the same footprint (e.g. many
+                                    # diode part numbers all use "D_SMBF"). Without adding the
+                                    # name here, only the first symbol that triggers the
+                                    # un-archive sees it as present -- every later symbol using
+                                    # the same footprint would still fail the `not in
+                                    # footprint_names` check above (since that list is only
+                                    # built once, up front) and, since it's no longer in
+                                    # archived_footprint_names either, would wrongly fall into
+                                    # the "Missing Footprint For Symbol" branch even though the
+                                    # file now exists in the active folder.
+                                    footprint_names.append(footprint_name)
+                                    footprint_names_used.append(footprint_name)
                                     print(f"Un-archived needed footprint: {footprint_name}")
                                 else:
                                     print(
@@ -711,7 +723,13 @@ for index in range(0, len(df)):
         ):
             if footprint_name == "SOT-23-3L" or footprint_name == "SOT-23-3":
                 footprint_name = "SOT-23"
-            elif footprint_name == "SOT-89-3":
+            elif footprint_name == "SOT-89-3" or footprint_name == "SOT-89-3L":
+                # JLCPCB's package field for these parts (e.g. D882/B772) is
+                # "SOT-89-3L" -- the SOT-23 remap above already handled both
+                # its "-3L" and "-3" variants, but this one only handled
+                # "-3" until now, so "SOT-89-3L" fell through unmapped and
+                # produced a "Q_SOT-89-3L" footprint reference that doesn't
+                # exist (the real file is "Q_SOT-89.kicad_mod").
                 footprint_name = "SOT-89"
 
             value = extract_transistor_type(description, joints, footprint_name, lcsc, attributes)
