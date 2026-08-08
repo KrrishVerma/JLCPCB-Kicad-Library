@@ -44357,7 +44357,7 @@
 				(hide yes)
 			)
 		)
-		(property "Stock" "41339"
+		(property "Stock" "64985"
 			(at 0 0 0)
 			(effects
 				(font
@@ -44366,7 +44366,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "0.040USD"
+		(property "Price" "0.042USD"
 			(at 0 0 0)
 			(effects
 				(font
@@ -45796,7 +45796,7 @@
 				(hide yes)
 			)
 		)
-		(property "Stock" "106046"
+		(property "Stock" "145333"
 			(at 0 0 0)
 			(effects
 				(font
@@ -45805,7 +45805,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "0.045USD"
+		(property "Price" "0.049USD"
 			(at 0 0 0)
 			(effects
 				(font
@@ -46101,7 +46101,7 @@
 				(hide yes)
 			)
 		)
-		(property "Stock" "63582"
+		(property "Stock" "58688"
 			(at 0 0 0)
 			(effects
 				(font
@@ -46110,7 +46110,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "0.049USD"
+		(property "Price" "0.052USD"
 			(at 0 0 0)
 			(effects
 				(font
