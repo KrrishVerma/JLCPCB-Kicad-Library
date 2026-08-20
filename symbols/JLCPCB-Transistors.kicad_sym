@@ -16710,7 +16710,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "-55°C~+150°C 1 NPN 100mA 12V 1uA 200mW 250 300mV 3V 7GHz NPN SOT-23 Bipolar (BJT) ROHS"
+		(property "Description" "-55°C~+150°C 1 NPN 100mA 12V 1uA 200mW 250 300mV 3V 7GHz NPN Standalone SOT-23 Bipolar (BJT) ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -19559,7 +19559,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "1 NPN 100MHz 100nA 250mV 300mW 400 4V 500mA 60V NPN SOT-23 Bipolar (BJT) ROHS"
+		(property "Description" "1 NPN 100MHz 100nA 250mV 300mW 400 4V 500mA 60V NPN Standalone SOT-23 Bipolar (BJT) ROHS"
 			(at 0 0 0)
 			(effects
 				(font
