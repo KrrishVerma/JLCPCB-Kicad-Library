@@ -19198,7 +19198,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "1 PNP 100MHz 100nA 250 300mW 45V 500mA 5V 700mV PNP SOT-23 Bipolar (BJT) ROHS"
+		(property "Description" "-55°C~+150°C 1 PNP 100MHz 100nA 250 300mW 45V 500mA 5V 700mV PNP SOT-23 Bipolar (BJT) ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -23819,7 +23819,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "-55°C~+155°C 1 NPN 100nA 210MHz 2A 350mV 390 500mW 60V 6V NPN SOT-89 Bipolar (BJT) ROHS"
+		(property "Description" "-55°C~+155°C 1 NPN 100nA 210MHz 2A 350mV 390 500mW 60V 6V NPN Standalone SOT-89 Bipolar (BJT) ROHS"
 			(at 0 0 0)
 			(effects
 				(font
