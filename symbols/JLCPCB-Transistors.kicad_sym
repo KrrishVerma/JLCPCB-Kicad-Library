@@ -20708,7 +20708,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "-55°C~+150°C 1 NPN 200mA 200mW 300MHz 300mV 40 40V 5V 60nA NPN SOT-323 Bipolar (BJT) ROHS"
+		(property "Description" "-55°C~+150°C 1 NPN 200mA 200mW 300MHz 300mV 40 40V 5V 60nA NPN Standalone SOT-323 Bipolar (BJT) ROHS"
 			(at 0 0 0)
 			(effects
 				(font
