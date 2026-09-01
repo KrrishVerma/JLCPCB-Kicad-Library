@@ -24574,7 +24574,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "1 PNP 100 100nA 1A 500mV 500mW 50MHz 5V 80V PNP SOT-89 Bipolar (BJT) ROHS"
+		(property "Description" "1 PNP 100 100nA 1A 500mV 500mW 50MHz 5V 80V PNP Standalone SOT-89 Bipolar (BJT) ROHS"
 			(at 0 0 0)
 			(effects
 				(font
