@@ -17697,7 +17697,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "1 PNP 100nA 225mW 250mV 400 4V 500mA 50MHz 60V PNP SOT-23 Bipolar (BJT) ROHS"
+		(property "Description" "-55°C~+150°C 1 PNP 100nA 225mW 250mV 400 4V 500mA 50MHz 60V PNP SOT-23 Bipolar (BJT) ROHS"
 			(at 0 0 0)
 			(effects
 				(font
