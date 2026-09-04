@@ -25320,7 +25320,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "1 NPN 100nA 150mV 160V 300 300MHz 500mW 600mA 6V NPN SOT-89 Bipolar (BJT) ROHS"
+		(property "Description" "-55°C~+150°C 1 NPN 100nA 150mV 160V 300 300MHz 500mW 600mA 6V NPN Standalone SOT-89 Bipolar (BJT) ROHS"
 			(at 0 0 0)
 			(effects
 				(font
