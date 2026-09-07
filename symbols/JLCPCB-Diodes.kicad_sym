@@ -6243,7 +6243,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "-55°C~+125°C 0.8pF 16V 200nA 55W@8/20us 5A@8/20us 5V 9V ESD IEC 61000-4-2、IEC 61000-4-5 Unidirectional DFN1006-2L ESD and Surge Protection (TVS/ESD) ROHS"
+		(property "Description" "-55°C~+125°C 0.8pF 1 16V 200nA 55W@8/20us 5A@8/20us 5V 9V ESD IEC 61000-4-2、IEC 61000-4-5 Unidirectional DFN1006-2L ESD and Surge Protection (TVS/ESD) ROHS"
 			(at 0 0 0)
 			(effects
 				(font
