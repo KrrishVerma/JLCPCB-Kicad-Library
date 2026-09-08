@@ -25705,7 +25705,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "-55°C~+155°C 0.5mW 1 NPN 120MHz 1A 32V 390 400mV 500nA 5V NPN SOT-89 Bipolar (BJT) ROHS"
+		(property "Description" "-55°C~+155°C 0.5mW 1 NPN 120MHz 1A 32V 390 400mV 500nA 5V NPN Standalone SOT-89 Bipolar (BJT) ROHS"
 			(at 0 0 0)
 			(effects
 				(font
