@@ -39793,7 +39793,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "-55°C~+150°C 1 P-Channel 1.25A 1.25W 275mΩ@10V 32pF 380pF 3V 5.4nC@10V 60V 6pF P-Channel SOT-23 MOSFETs ROHS"
+		(property "Description" "-55°C~+150°C 1 P-Channel 1.25A 1.25W 275mΩ@10V 32pF 380pF 3V 5.4nC@10V 60V 6pF P-Channel ±20V SOT-23 MOSFETs ROHS"
 			(at 0 0 0)
 			(effects
 				(font
